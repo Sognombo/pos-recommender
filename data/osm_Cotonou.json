@@ -1,0 +1,7338 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-21T17:01:53Z",
+    "timestamp_areas_base": "2026-04-21T17:01:53Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1531846131,
+  "lat": 6.3477453,
+  "lon": 2.4034131,
+  "tags": {
+    "name": "Arcada Marina",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1969918444,
+  "lat": 6.3496093,
+  "lon": 2.3865502,
+  "tags": {
+    "amenity": "atm",
+    "cash_in": "no",
+    "operator": "Ecobank"
+  }
+},
+{
+  "type": "node",
+  "id": 2348384276,
+  "lat": 6.3568711,
+  "lon": 2.4041730,
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:country": "BJ",
+    "addr:postcode": "04 BP 578",
+    "name": "Chant d'oiseau",
+    "phone": "+229 21 30 29 30",
+    "tourism": "hotel",
+    "website": "https://chantdoiseau.net/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2394741538,
+  "lat": 6.3584067,
+  "lon": 2.4315012,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Jonquet"
+  }
+},
+{
+  "type": "node",
+  "id": 2423973824,
+  "lat": 6.3595055,
+  "lon": 2.4196446,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "yes",
+    "name": "Costa Rica",
+    "opening_hours": "Mo-Fr 08:30-20:00",
+    "operator": "CPA",
+    "smoking": "yes",
+    "source": "GPS",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2423973827,
+  "lat": 6.3593740,
+  "lon": 2.4198320,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Bank of Africa",
+    "brand:wikidata": "Q2882627",
+    "operator": "Bank of Africa",
+    "operator:wikidata": "Q2882627",
+    "short_name": "BOA",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2424002518,
+  "lat": 6.3712804,
+  "lon": 2.4119822,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Ornella"
+  }
+},
+{
+  "type": "node",
+  "id": 2424009524,
+  "lat": 6.3595945,
+  "lon": 2.4200980,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Ecobank",
+    "brand:wikidata": "Q930225",
+    "operator": "Ecobank",
+    "operator:wikidata": "Q930225"
+  }
+},
+{
+  "type": "node",
+  "id": 2425316451,
+  "lat": 6.3608751,
+  "lon": 2.4136701,
+  "tags": {
+    "amenity": "school",
+    "name": "EPP Saint Jean I",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2425321747,
+  "lat": 6.3611731,
+  "lon": 2.4150454,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Le Junior"
+  }
+},
+{
+  "type": "node",
+  "id": 2425338290,
+  "lat": 6.3618625,
+  "lon": 2.4150801,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Auto école AS-SALLAM",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2425347920,
+  "lat": 6.3605048,
+  "lon": 2.4154696,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "no",
+    "microbrewery": "no",
+    "name": "Bar Restaurant Attieke",
+    "operator": "Ivoirienne, Africaine",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2425979025,
+  "lat": 6.3569322,
+  "lon": 2.3996475,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Restaurant Hai King"
+  }
+},
+{
+  "type": "node",
+  "id": 2481870007,
+  "lat": 6.3781996,
+  "lon": 2.3902366,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Marché Vedoko"
+  }
+},
+{
+  "type": "node",
+  "id": 2483263866,
+  "lat": 6.3589357,
+  "lon": 2.4365802,
+  "tags": {
+    "name": "Hôtel Vickinfel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2492340598,
+  "lat": 6.3533983,
+  "lon": 2.3883454,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Macumba"
+  }
+},
+{
+  "type": "node",
+  "id": 2605942916,
+  "lat": 6.3869186,
+  "lon": 2.3854563,
+  "tags": {
+    "amenity": "school",
+    "name": "Ecolle maternelle les bourgillons",
+    "operator:type": "private",
+    "school:HT": "kindergarten",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2605982141,
+  "lat": 6.3850208,
+  "lon": 2.3832363,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant viande de porc Le projet",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2605982172,
+  "lat": 6.3847451,
+  "lon": 2.3830465,
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole primaire privée la Fraternité",
+    "operator:type": "private",
+    "school:HT": "primaire",
+    "source": "GPS"
+  }
+},
+{
+  "type": "node",
+  "id": 2605982178,
+  "lat": 6.3851039,
+  "lon": 2.3869449,
+  "tags": {
+    "amenity": "school",
+    "name": "École primaire privée",
+    "operator:type": "private",
+    "school:HT": "primaire",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2605982184,
+  "lat": 6.3846252,
+  "lon": 2.3817853,
+  "tags": {
+    "name": "Hôtel Peace and Love",
+    "source": "GPS",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2605982186,
+  "lat": 6.3839410,
+  "lon": 2.3824323,
+  "tags": {
+    "name": "Hôtel chez Clarisse",
+    "source": "GPS",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2605998215,
+  "lat": 6.3537235,
+  "lon": 2.3884971,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Hôtel Best western plus",
+    "source": "GPS",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2605998216,
+  "lat": 6.3799358,
+  "lon": 2.3825173,
+  "tags": {
+    "name": "Hôtel Calos",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2619447874,
+  "lat": 6.3552315,
+  "lon": 2.4369115,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "La Gerbe d'Or",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2773800994,
+  "lat": 6.3591093,
+  "lon": 2.4450372,
+  "tags": {
+    "internet_access": "yes",
+    "name": "Hôtel du lac",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2782366114,
+  "lat": 6.3569121,
+  "lon": 2.4008066,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie"
+  }
+},
+{
+  "type": "node",
+  "id": 2796224249,
+  "lat": 6.3733765,
+  "lon": 2.4472293,
+  "tags": {
+    "amenity": "school",
+    "name": "Centre d'Etude et de Documentation"
+  }
+},
+{
+  "type": "node",
+  "id": 2859549153,
+  "lat": 6.3575087,
+  "lon": 2.4638263,
+  "tags": {
+    "internet_access": "yes",
+    "name": "El Dorado Beach Club",
+    "operator": "privé",
+    "smoking": "yes",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3252597861,
+  "lat": 6.3885506,
+  "lon": 2.3737390,
+  "tags": {
+    "name": "Résidence Jeanne d'Arc",
+    "phone": "21380877",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3252613861,
+  "lat": 6.3838508,
+  "lon": 2.3768588,
+  "tags": {
+    "name": "Pantagruel",
+    "source:name": "survey",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3252664061,
+  "lat": 6.3561527,
+  "lon": 2.4184560,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Camp Guezo",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 3252689674,
+  "lat": 6.3817438,
+  "lon": 2.3795598,
+  "tags": {
+    "addr:housenumber": "3652",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie de l’amitie",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 3259917661,
+  "lat": 6.3589863,
+  "lon": 2.4363023,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie Vogue"
+  }
+},
+{
+  "type": "node",
+  "id": 3260370223,
+  "lat": 6.3661640,
+  "lon": 2.4206788,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Adéchina",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260370355,
+  "lat": 6.3617048,
+  "lon": 2.4344736,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie atinkanmey",
+    "source:dispensing": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260372490,
+  "lat": 6.3664602,
+  "lon": 2.4293500,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie saint michel"
+  }
+},
+{
+  "type": "node",
+  "id": 3260372492,
+  "lat": 6.3674063,
+  "lon": 2.4241742,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie forum santé",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260372682,
+  "lat": 6.3686840,
+  "lon": 2.4288576,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Sainte Cecile"
+  }
+},
+{
+  "type": "node",
+  "id": 3260385561,
+  "lat": 6.3596540,
+  "lon": 2.4258528,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Zongo"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703524,
+  "lat": 6.3875949,
+  "lon": 2.3687693,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Nouvelle Pharmacie Mènontin",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703527,
+  "lat": 6.3868890,
+  "lon": 2.3846739,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie renouveau",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703530,
+  "lat": 6.3921655,
+  "lon": 2.3828379,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie Zogbohoue"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745363,
+  "lat": 6.3920263,
+  "lon": 2.3648379,
+  "tags": {
+    "addr:city": "Cotonou",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Kindonou"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745461,
+  "lat": 6.3883621,
+  "lon": 2.3746531,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Sainte Famile"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745561,
+  "lat": 6.3900911,
+  "lon": 2.3879721,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie Zogbo"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745562,
+  "lat": 6.3908238,
+  "lon": 2.3934549,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "pharmacie le tamaya",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260745563,
+  "lat": 6.3908344,
+  "lon": 2.3977869,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Palace Plus"
+  }
+},
+{
+  "type": "node",
+  "id": 3263349461,
+  "lat": 6.3705625,
+  "lon": 2.4166009,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Marina"
+  }
+},
+{
+  "type": "node",
+  "id": 3267089995,
+  "lat": 6.3923411,
+  "lon": 2.3699340,
+  "tags": {
+    "amenity": "school",
+    "name": "CEG",
+    "office": "newspaper"
+  }
+},
+{
+  "type": "node",
+  "id": 3333949393,
+  "lat": 6.3848856,
+  "lon": 2.3783176,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 3578037494,
+  "lat": 6.3546133,
+  "lon": 2.4395118,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Lounge Bar PREMIUM",
+    "source": "gps;survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3578049694,
+  "lat": 6.3542990,
+  "lon": 2.4390147,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "GRAND MONDE",
+    "operator": "Privé",
+    "outdoor_seating": "yes",
+    "source": "gps;survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3578050193,
+  "lat": 6.3542657,
+  "lon": 2.4393617,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "MAMAN ANGELO",
+    "operator": "Privé",
+    "outdoor_seating": "no",
+    "source": "gps;survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3611667027,
+  "lat": 6.3720794,
+  "lon": 2.4426540,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Saint Raphaël",
+    "source": "gps;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3726500350,
+  "lat": 6.3566952,
+  "lon": 2.3951626,
+  "tags": {
+    "addr:housenumber": "428",
+    "addr:street": "12.170",
+    "amenity": "restaurant",
+    "name": "Carré soleil"
+  }
+},
+{
+  "type": "node",
+  "id": 3726500352,
+  "lat": 6.3566574,
+  "lon": 2.3968894,
+  "tags": {
+    "addr:housenumber": "230",
+    "addr:street": "12.170",
+    "amenity": "restaurant",
+    "name": "Cordon bleu"
+  }
+},
+{
+  "type": "node",
+  "id": 3726500353,
+  "lat": 6.3567580,
+  "lon": 2.3936201,
+  "tags": {
+    "addr:housenumber": "602",
+    "addr:street": "12.170",
+    "amenity": "restaurant",
+    "name": "Domino"
+  }
+},
+{
+  "type": "node",
+  "id": 3726500354,
+  "lat": 6.3558074,
+  "lon": 2.3928528,
+  "tags": {
+    "addr:housenumber": "709",
+    "addr:street": "12.168",
+    "amenity": "school",
+    "name": "Ecole Les cocotiers"
+  }
+},
+{
+  "type": "node",
+  "id": 3726500358,
+  "lat": 6.3565823,
+  "lon": 2.3970724,
+  "tags": {
+    "addr:housenumber": "221",
+    "addr:street": "12.170",
+    "amenity": "restaurant",
+    "name": "Le Lambi's"
+  }
+},
+{
+  "type": "node",
+  "id": 3726500359,
+  "lat": 6.3566008,
+  "lon": 2.3960352,
+  "tags": {
+    "addr:housenumber": "333",
+    "addr:street": "12.170",
+    "amenity": "restaurant",
+    "name": "Le Marrakech"
+  }
+},
+{
+  "type": "node",
+  "id": 3726500360,
+  "lat": 6.3565776,
+  "lon": 2.3976046,
+  "tags": {
+    "addr:housenumber": "161",
+    "addr:street": "12.170",
+    "amenity": "restaurant",
+    "name": "Le Resto"
+  }
+},
+{
+  "type": "node",
+  "id": 3726502301,
+  "lat": 6.3566525,
+  "lon": 2.3930514,
+  "tags": {
+    "addr:housenumber": "661",
+    "addr:street": "12.170",
+    "amenity": "restaurant",
+    "name": "Royal Garden"
+  }
+},
+{
+  "type": "node",
+  "id": 3726502303,
+  "lat": 6.3570837,
+  "lon": 2.3926781,
+  "tags": {
+    "addr:housenumber": "29",
+    "addr:street": "12.289",
+    "amenity": "restaurant",
+    "name": "le Carré"
+  }
+},
+{
+  "type": "node",
+  "id": 3731695128,
+  "lat": 6.3920898,
+  "lon": 2.3642201,
+  "tags": {
+    "name": "ZC HOTEL",
+    "operator": "private",
+    "source": "survey",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3778428810,
+  "lat": 6.3772100,
+  "lon": 2.4148976,
+  "tags": {
+    "amenity": "school",
+    "name": "CEG Sainte Rita",
+    "school:FR": "secondaire",
+    "source": "bing;local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3778431485,
+  "lat": 6.3677333,
+  "lon": 2.3952441,
+  "tags": {
+    "amenity": "school",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3872880785,
+  "lat": 6.3611624,
+  "lon": 2.3976738,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Cadjehoun"
+  }
+},
+{
+  "type": "node",
+  "id": 3872881834,
+  "lat": 6.3851999,
+  "lon": 2.3740547,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Oladjouan"
+  }
+},
+{
+  "type": "node",
+  "id": 3872882787,
+  "lat": 6.3784562,
+  "lon": 2.4083865,
+  "tags": {
+    "name": "La Résidence de l'Étoile",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3872882889,
+  "lat": 6.3570771,
+  "lon": 2.3994541,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Karim 24"
+  }
+},
+{
+  "type": "node",
+  "id": 3874525204,
+  "lat": 6.3774115,
+  "lon": 2.4417953,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Midombo"
+  }
+},
+{
+  "type": "node",
+  "id": 3874525206,
+  "lat": 6.3523313,
+  "lon": 2.4382761,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Le Moringa"
+  }
+},
+{
+  "type": "node",
+  "id": 3874525408,
+  "lat": 6.3776271,
+  "lon": 2.4113361,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie L'Éternité"
+  }
+},
+{
+  "type": "node",
+  "id": 3874525417,
+  "lat": 6.3770007,
+  "lon": 2.4487000,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Adetona"
+  }
+},
+{
+  "type": "node",
+  "id": 3874525420,
+  "lat": 6.3525143,
+  "lon": 2.4379155,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Chez Léa"
+  }
+},
+{
+  "type": "node",
+  "id": 3874525755,
+  "lat": 6.3558274,
+  "lon": 2.4373560,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Dody's"
+  }
+},
+{
+  "type": "node",
+  "id": 3876476651,
+  "lat": 6.3710762,
+  "lon": 2.4161379,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Bank of Africa",
+    "brand:wikidata": "Q2882627",
+    "name": "Bank of Africa",
+    "operator": "Bank of Africa",
+    "operator:wikidata": "Q2882627",
+    "short_name": "BOA"
+  }
+},
+{
+  "type": "node",
+  "id": 3876476653,
+  "lat": 6.3558790,
+  "lon": 2.4175736,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Jet Set"
+  }
+},
+{
+  "type": "node",
+  "id": 3876476655,
+  "lat": 6.3574935,
+  "lon": 2.4258699,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie de la Mosquée Centrale"
+  }
+},
+{
+  "type": "node",
+  "id": 3876477261,
+  "lat": 6.3572593,
+  "lon": 2.4360977,
+  "tags": {
+    "name": "Acropole",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3876477421,
+  "lat": 6.3757063,
+  "lon": 2.4051944,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Agontinkon"
+  }
+},
+{
+  "type": "node",
+  "id": 3876477557,
+  "lat": 6.3770598,
+  "lon": 2.3935233,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Auto-École Pacifique"
+  }
+},
+{
+  "type": "node",
+  "id": 3876749113,
+  "lat": 6.3889561,
+  "lon": 2.3573526,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Medipharm",
+    "warehouse": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3878027518,
+  "lat": 6.3853571,
+  "lon": 2.3818893,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Ecobank",
+    "brand:wikidata": "Q930225",
+    "name": "Ecobank",
+    "operator": "Ecobank",
+    "operator:wikidata": "Q930225"
+  }
+},
+{
+  "type": "node",
+  "id": 3878027520,
+  "lat": 6.3866273,
+  "lon": 2.3744992,
+  "tags": {
+    "name": "Casta Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3878035834,
+  "lat": 6.3850399,
+  "lon": 2.3813814,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le 229"
+  }
+},
+{
+  "type": "node",
+  "id": 3886568493,
+  "lat": 6.3540136,
+  "lon": 2.4364317,
+  "tags": {
+    "name": "Myosotis",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3892459498,
+  "lat": 6.3809501,
+  "lon": 2.3726607,
+  "tags": {
+    "addr:housenumber": "511",
+    "addr:street": "Rue 13.289",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Les Pylônes"
+  }
+},
+{
+  "type": "node",
+  "id": 3904758139,
+  "lat": 6.3569270,
+  "lon": 2.4295213,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "CHARLY 2001"
+  }
+},
+{
+  "type": "node",
+  "id": 3904759320,
+  "lat": 6.3565709,
+  "lon": 2.4286656,
+  "tags": {
+    "addr:housenumber": "1084",
+    "addr:street": "rue des Cheminots",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Les Cheminots",
+    "phone": "315173"
+  }
+},
+{
+  "type": "node",
+  "id": 3906168764,
+  "lat": 6.3913290,
+  "lon": 2.3591585,
+  "tags": {
+    "addr:housenumber": "215",
+    "amenity": "school",
+    "name": "Complexe scolaire la Paloma",
+    "phone": "64792244"
+  }
+},
+{
+  "type": "node",
+  "id": 3907180756,
+  "lat": 6.3694197,
+  "lon": 2.4428678,
+  "tags": {
+    "addr:housenumber": "994",
+    "amenity": "restaurant",
+    "name": "MAQUIS SILOE",
+    "phone": "61137280- 94005940"
+  }
+},
+{
+  "type": "node",
+  "id": 3907699947,
+  "lat": 6.3639837,
+  "lon": 2.3999588,
+  "tags": {
+    "addr:street": "Avenue du Canada",
+    "amenity": "school",
+    "name": "ECOLE SUPÉRIEURE DES TECHNOLOGIES AVACEES ET DE MANAGEMENT"
+  }
+},
+{
+  "type": "node",
+  "id": 3907706410,
+  "lat": 6.3633084,
+  "lon": 2.3997143,
+  "tags": {
+    "addr:street": "Avenue du Canada",
+    "amenity": "restaurant",
+    "name": "Maquis Chez Georgia",
+    "phone": "0022995140203",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3922435284,
+  "lat": 6.3850397,
+  "lon": 2.3811210,
+  "tags": {
+    "addr:housenumber": "4698",
+    "amenity": "restaurant",
+    "name": "CHEZ ZEUKEL & FILS"
+  }
+},
+{
+  "type": "node",
+  "id": 3927614977,
+  "lat": 6.3676537,
+  "lon": 2.4548273,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Le remède Sodjeatime"
+  }
+},
+{
+  "type": "node",
+  "id": 3934003903,
+  "lat": 6.3690873,
+  "lon": 2.4153944,
+  "tags": {
+    "addr:housenumber": "1102",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Alafia",
+    "phone": "21323442"
+  }
+},
+{
+  "type": "node",
+  "id": 3934005032,
+  "lat": 6.3566599,
+  "lon": 2.4373026,
+  "tags": {
+    "amenity": "school",
+    "denomination": "roman_catholic",
+    "name": "Complexe scolaire catholique Père Planque",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 3934012004,
+  "lat": 6.3671524,
+  "lon": 2.4135176,
+  "tags": {
+    "amenity": "school",
+    "name": "Collège La Flèche",
+    "phone": "21301313"
+  }
+},
+{
+  "type": "node",
+  "id": 3945003461,
+  "lat": 6.3844585,
+  "lon": 2.3797480,
+  "tags": {
+    "addr:housenumber": "4844",
+    "amenity": "restaurant",
+    "name": "Restaurant TONASSE",
+    "phone": "99111359"
+  }
+},
+{
+  "type": "node",
+  "id": 3950476354,
+  "lat": 6.3625655,
+  "lon": 2.4136825,
+  "tags": {
+    "addr:housenumber": "146",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie du Rond-Point",
+    "phone": "21302709-94012403"
+  }
+},
+{
+  "type": "node",
+  "id": 4007963186,
+  "lat": 6.3524855,
+  "lon": 2.3911002,
+  "tags": {
+    "name": "HOYEL LE PAQUEBOT",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4138771782,
+  "lat": 6.3901315,
+  "lon": 2.3732312,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Bar Chez Oly",
+    "phone": "96003810"
+  }
+},
+{
+  "type": "node",
+  "id": 4146893295,
+  "lat": 6.3676423,
+  "lon": 2.4872196,
+  "tags": {
+    "addr:housenumber": "125",
+    "addr:street": "Rue 147",
+    "amenity": "school",
+    "name": "Wonderful American International School of Benin"
+  }
+},
+{
+  "type": "node",
+  "id": 4157613951,
+  "lat": 6.3550509,
+  "lon": 2.4367268,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Ganhi"
+  }
+},
+{
+  "type": "node",
+  "id": 4165302038,
+  "lat": 6.3923272,
+  "lon": 2.3642038,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "african",
+    "microbrewery": "no",
+    "name": "9232",
+    "outdoor_seating": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4165460598,
+  "lat": 6.3722636,
+  "lon": 2.4091720,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Chez Adé"
+  }
+},
+{
+  "type": "node",
+  "id": 4167245449,
+  "lat": 6.3898819,
+  "lon": 2.3721156,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "name": "Bar Bel air",
+    "takeaway": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4167285476,
+  "lat": 6.3925582,
+  "lon": 2.3623566,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cesserole du sherif",
+    "phone": "+22921381520",
+    "source": "Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4167304026,
+  "lat": 6.3925867,
+  "lon": 2.3619821,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Auto école Gama"
+  }
+},
+{
+  "type": "node",
+  "id": 4167448687,
+  "lat": 6.3893807,
+  "lon": 2.3725707,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Auto-Ecole Le Progrès"
+  }
+},
+{
+  "type": "node",
+  "id": 4170523800,
+  "lat": 6.3695053,
+  "lon": 2.4303446,
+  "tags": {
+    "addr:housenumber": "259",
+    "addr:street": "Avenue de la paix",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie des 4 therapies",
+    "phone": "+22921323330"
+  }
+},
+{
+  "type": "node",
+  "id": 4172313361,
+  "lat": 6.3793929,
+  "lon": 2.4626353,
+  "tags": {
+    "amenity": "school",
+    "name": "CEG SURU LERE",
+    "operator:type": "public",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4172313362,
+  "lat": 6.3794808,
+  "lon": 2.4637511,
+  "tags": {
+    "amenity": "school",
+    "name": "CSU Espoir 2000",
+    "operator:type": "private",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4172313363,
+  "lat": 6.3778135,
+  "lon": 2.4632254,
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole Primaire Publique Suru Léré",
+    "operator:type": "public",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4172313364,
+  "lat": 6.3776510,
+  "lon": 2.4625521,
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole Primaire Publique Sènadé",
+    "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00",
+    "operator:type": "public",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4172313367,
+  "lat": 6.3799460,
+  "lon": 2.4637149,
+  "tags": {
+    "amenity": "school",
+    "name": "St Emmanuel",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 4172329287,
+  "lat": 6.3827236,
+  "lon": 2.4625012,
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole Primaire Publique kowegbo",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4172381293,
+  "lat": 6.3725933,
+  "lon": 2.4643058,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie St martin",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4172581711,
+  "lat": 6.3772484,
+  "lon": 2.4568190,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Sènadé",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4173462254,
+  "lat": 6.3811714,
+  "lon": 2.4412072,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Soft Bar Resto"
+  }
+},
+{
+  "type": "node",
+  "id": 4176026466,
+  "lat": 6.3704035,
+  "lon": 2.4209817,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Le Conseil"
+  }
+},
+{
+  "type": "node",
+  "id": 4176026478,
+  "lat": 6.3921920,
+  "lon": 2.3666077,
+  "tags": {
+    "addr:housenumber": "1146",
+    "amenity": "driving_school",
+    "name": "Auto-École Universelle"
+  }
+},
+{
+  "type": "node",
+  "id": 4185357026,
+  "lat": 6.3567686,
+  "lon": 2.3941995,
+  "tags": {
+    "addr:housenumber": "lot 17",
+    "addr:street": "Piste Amalco, Haie Vive",
+    "amenity": "restaurant",
+    "cuisine": "burger;african;sandwich;american;pasta;italian;pizza;italian_pizza",
+    "name": "Livingstone",
+    "name:en": "Livingstone",
+    "name:fr": "Livingstone",
+    "opening_hours": "Mo-Su 10:00-02:00",
+    "outdoor_seating": "yes",
+    "phone": "+22921300033",
+    "website": "https://www.livingstonehotelbenin.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4185428040,
+  "lat": 6.3561430,
+  "lon": 2.3617439,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 4186326929,
+  "lat": 6.3480301,
+  "lon": 2.4012080,
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:country": "BJ",
+    "addr:housenumber": "1821",
+    "addr:street": "Boulevard de la Marina",
+    "brand": "Novotel",
+    "brand:wikidata": "Q420545",
+    "contact:website": "https://all.accor.com/hotel/1826/index.fr.shtml",
+    "name": "Novotel Cotonou Orisha",
+    "operator": "Accor",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4187043425,
+  "lat": 6.3723429,
+  "lon": 2.4397307,
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole Primaire de Midombo A et B"
+  }
+},
+{
+  "type": "node",
+  "id": 4189561135,
+  "lat": 6.3842004,
+  "lon": 2.4222212,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe Scolaire Gbeffa"
+  }
+},
+{
+  "type": "node",
+  "id": 4189565248,
+  "lat": 6.3842611,
+  "lon": 2.4251211,
+  "tags": {
+    "addr:housenumber": "207",
+    "addr:street": "Rue 6.112",
+    "amenity": "school",
+    "description": "crèche maternelle primaire secondaire",
+    "name": "Brain Builders International School"
+  }
+},
+{
+  "type": "node",
+  "id": 4190059089,
+  "lat": 6.3859949,
+  "lon": 2.4242148,
+  "tags": {
+    "amenity": "school",
+    "denomination": "roman_catholic",
+    "name": "Collège catholique Sainte Cécile",
+    "phone": "97449858",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4208098198,
+  "lat": 6.3691206,
+  "lon": 2.4471815,
+  "tags": {
+    "amenity": "school",
+    "name": "CEG AKPAKPA CENTRE",
+    "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4208098201,
+  "lat": 6.3706903,
+  "lon": 2.4467486,
+  "tags": {
+    "internet_access": "yes",
+    "name": "HOTEL GL",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4208098205,
+  "lat": 6.3722857,
+  "lon": 2.4525945,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Ciné Concorde",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4208911385,
+  "lat": 6.3742011,
+  "lon": 2.4598795,
+  "tags": {
+    "amenity": "school",
+    "name": "EPP AMAKENE ESPERANCE",
+    "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00",
+    "school:BJ": "primaire",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4208947657,
+  "lat": 6.3743274,
+  "lon": 2.4618236,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "ARIYAA CAFETARIAT",
+    "opening_hours": "Mo-Fr 08:30-20:00, Tu-Su 08:00-15:00; Sa 08:00-12:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4210096571,
+  "lat": 6.3685266,
+  "lon": 2.4842635,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie de l'Abattoir",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4210096948,
+  "lat": 6.3685138,
+  "lon": 2.4837007,
+  "tags": {
+    "amenity": "atm",
+    "brand": "UBA",
+    "brand:wikidata": "Q513457",
+    "official_name": "United Bank for Africa",
+    "operator": "UBA",
+    "operator:wikidata": "Q513457",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4210159842,
+  "lat": 6.3682592,
+  "lon": 2.4471570,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french",
+    "microbrewery": "yes",
+    "name": "Maquis YAO"
+  }
+},
+{
+  "type": "node",
+  "id": 4210159843,
+  "lat": 6.3667018,
+  "lon": 2.4552305,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie la Béninoise",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4210824197,
+  "lat": 6.3616908,
+  "lon": 2.4076797,
+  "tags": {
+    "amenity": "school",
+    "name": "Collège Saint-Roger",
+    "source": "Pleiades-2016; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4215436432,
+  "lat": 6.3794789,
+  "lon": 2.4645571,
+  "tags": {
+    "name": "HOTEL KOB",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4215465591,
+  "lat": 6.3791243,
+  "lon": 2.4690211,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 4223479540,
+  "lat": 6.3871133,
+  "lon": 2.3726643,
+  "tags": {
+    "addr:city": "cotonou",
+    "amenity": "school",
+    "name": "Complexe scolaire",
+    "school:HT": "primaire"
+  }
+},
+{
+  "type": "node",
+  "id": 4228452689,
+  "lat": 6.3768919,
+  "lon": 2.4494530,
+  "tags": {
+    "amenity": "school",
+    "name": "CS Notre Dame de Toutes Graces"
+  }
+},
+{
+  "type": "node",
+  "id": 4228452690,
+  "lat": 6.3782327,
+  "lon": 2.4482218,
+  "tags": {
+    "amenity": "school",
+    "name": "CSP Bon Berger"
+  }
+},
+{
+  "type": "node",
+  "id": 4228452691,
+  "lat": 6.3766107,
+  "lon": 2.4479885,
+  "tags": {
+    "amenity": "school",
+    "name": "CSP Lucie Verone"
+  }
+},
+{
+  "type": "node",
+  "id": 4228452692,
+  "lat": 6.3747461,
+  "lon": 2.4497829,
+  "tags": {
+    "amenity": "school",
+    "name": "CSP St Laurent"
+  }
+},
+{
+  "type": "node",
+  "id": 4228568612,
+  "lat": 6.3742710,
+  "lon": 2.4466923,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Sacré Coeur"
+  }
+},
+{
+  "type": "node",
+  "id": 4228568613,
+  "lat": 6.3812302,
+  "lon": 2.4467801,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Segbeya"
+  }
+},
+{
+  "type": "node",
+  "id": 4228573026,
+  "lat": 6.3735219,
+  "lon": 2.4461290,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 4231111003,
+  "lat": 6.3622629,
+  "lon": 2.4277670,
+  "tags": {
+    "addr:housenumber": "1006",
+    "name": "Hôtel MelJomar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4231111726,
+  "lat": 6.3617871,
+  "lon": 2.4272282,
+  "tags": {
+    "addr:street": "Avenue de l'Afrique",
+    "amenity": "school",
+    "name": "École Libanaise-Cotonou"
+  }
+},
+{
+  "type": "node",
+  "id": 4235638506,
+  "lat": 6.3814708,
+  "lon": 2.4552351,
+  "tags": {
+    "name": "Hotel Phénix",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4238293175,
+  "lat": 6.3637992,
+  "lon": 2.4206761,
+  "tags": {
+    "addr:city": "COTONOU",
+    "addr:postcode": "05 BP 640",
+    "addr:street": "Rue 204",
+    "name": "BENIN ROYAL HOTEL",
+    "smoking": "isolated",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4250002038,
+  "lat": 6.3581716,
+  "lon": 2.3992587,
+  "tags": {
+    "name": "Hôtel Méditerrané",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4250061033,
+  "lat": 6.3603897,
+  "lon": 2.4218641,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Saint-Jean"
+  }
+},
+{
+  "type": "node",
+  "id": 4251207881,
+  "lat": 6.3653988,
+  "lon": 2.4341699,
+  "tags": {
+    "addr:housename": "909",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Saint-Joseph"
+  }
+},
+{
+  "type": "node",
+  "id": 4316095829,
+  "lat": 6.3832915,
+  "lon": 2.4041904,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Lagon"
+  }
+},
+{
+  "type": "node",
+  "id": 4347358091,
+  "lat": 6.3791604,
+  "lon": 2.4200900,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant ''Jadore''",
+    "name:en": "E"
+  }
+},
+{
+  "type": "node",
+  "id": 4351623418,
+  "lat": 6.3827741,
+  "lon": 2.4173863,
+  "tags": {
+    "amenity": "school",
+    "name": "Collège de la paix"
+  }
+},
+{
+  "type": "node",
+  "id": 4351625280,
+  "lat": 6.3785779,
+  "lon": 2.4205092,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Nouvelle"
+  }
+},
+{
+  "type": "node",
+  "id": 4358192501,
+  "lat": 6.3927064,
+  "lon": 2.3607444,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Sainteté à l'Éternel",
+    "name:fr": "Sainteté à l'Éternel"
+  }
+},
+{
+  "type": "node",
+  "id": 4359351391,
+  "lat": 6.3921794,
+  "lon": 2.3641845,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "MAFAMI",
+    "name:fr": "MAFAMI"
+  }
+},
+{
+  "type": "node",
+  "id": 4363486341,
+  "lat": 6.3765260,
+  "lon": 2.4795160,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie saint urbain"
+  }
+},
+{
+  "type": "node",
+  "id": 4363592550,
+  "lat": 6.3706515,
+  "lon": 2.4786438,
+  "tags": {
+    "addr:housenumber": "708",
+    "amenity": "pharmacy",
+    "description": "présence d'une mosquée",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Dégakon",
+    "phone": "333235"
+  }
+},
+{
+  "type": "node",
+  "id": 4363707791,
+  "lat": 6.3693986,
+  "lon": 2.4779554,
+  "tags": {
+    "addr:city": "Cotonou",
+    "amenity": "school",
+    "name": "Complexe scolaire stella Matutina",
+    "name:fr": "Complexe scolaire stella Matutina"
+  }
+},
+{
+  "type": "node",
+  "id": 4379703093,
+  "lat": 6.3692902,
+  "lon": 2.4127004,
+  "tags": {
+    "addr:housenumber": "1378",
+    "amenity": "restaurant",
+    "name": "Saveurs du Bénin",
+    "name:fr": "Saveurs du Bénin",
+    "phone": "+229 646467"
+  }
+},
+{
+  "type": "node",
+  "id": 4381016889,
+  "lat": 6.3642830,
+  "lon": 2.4245608,
+  "tags": {
+    "addr:housenumber": "101",
+    "amenity": "school",
+    "name": "Institut universitaire les cours sonou",
+    "name:fr": "Institut universitaire les cours sonou"
+  }
+},
+{
+  "type": "node",
+  "id": 4389290238,
+  "lat": 6.3542179,
+  "lon": 2.3968150,
+  "tags": {
+    "addr:full": "Rue 12.207 en face Assurance Colina, derrière nouvel immeuble Air France, Cotonou, Bénin",
+    "amenity": "school",
+    "contact:email": "contacts@irgibafrica.com",
+    "contact:facebook": "http://www.facebook.com/irgibafricauniv",
+    "contact:phone": "+229 67296464",
+    "contact:website": "http://irgibafrica.com/",
+    "description": "Institut Régional du Génie Industriel, des Biotechnologies et Sciences Appliquées",
+    "name": "Institut Régional du Génie Industriel, des Biotechnologies et Sciences Appliquées",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "school:FR": "secondaire",
+    "short_name": "IRGIB-Africa",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-07",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2006"
+  }
+},
+{
+  "type": "node",
+  "id": 4389290239,
+  "lat": 6.3572955,
+  "lon": 2.3982353,
+  "tags": {
+    "addr:full": "A l'intérieure de la Paroisse Bon Pasteur Cadjèhoun, Cotonou, Bénin",
+    "amenity": "school",
+    "contact:email": "ucaobenin@ucaobenin.com",
+    "contact:phone": "+229 21305118",
+    "contact:website": "http://ucaobenin.com/",
+    "description": "UCAO a pour vocation de couvrir le champ le plus large possible des Sciences et de la Technologie, avec le plus grand souci d'efficience et de fidélité au dialogue entre la raison et la foi.",
+    "name": "Université Catholique de l'Afrique de l'Ouest",
+    "operator": "Conférence Episcopale Régionale de l'Afrique de l'Ouest",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "school:FR": "secondaire",
+    "short_name": "UCAO",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-07",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2002"
+  }
+},
+{
+  "type": "node",
+  "id": 4401545632,
+  "lat": 6.3559433,
+  "lon": 2.4028928,
+  "tags": {
+    "name": "hôtel de l'Entente",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4402794893,
+  "lat": 6.3739488,
+  "lon": 2.4242430,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Espace beauté"
+  }
+},
+{
+  "type": "node",
+  "id": 4403019781,
+  "lat": 6.3622560,
+  "lon": 2.4370297,
+  "tags": {
+    "addr:housenumber": "426",
+    "amenity": "pharmacy",
+    "brand": "Pharmacie Principale",
+    "brand:wikidata": "Q1547749",
+    "brand:wikipedia": "fr:Groupe PP Holding",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Principale"
+  }
+},
+{
+  "type": "node",
+  "id": 4403025905,
+  "lat": 6.3625950,
+  "lon": 2.4296009,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis chez maman Pacôme"
+  }
+},
+{
+  "type": "node",
+  "id": 4403026193,
+  "lat": 6.3739044,
+  "lon": 2.4248098,
+  "tags": {
+    "addr:housenumber": "480",
+    "addr:street": "Rue 6.042",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Le Nokoué"
+  }
+},
+{
+  "type": "node",
+  "id": 4403040360,
+  "lat": 6.3642779,
+  "lon": 2.4088826,
+  "tags": {
+    "amenity": "atm",
+    "brand": "UBA",
+    "brand:wikidata": "Q513457",
+    "description": "UBA",
+    "name": "United Bank for Africa",
+    "official_name": "United Bank for Africa",
+    "operator": "UBA",
+    "operator:wikidata": "Q513457"
+  }
+},
+{
+  "type": "node",
+  "id": 4403052125,
+  "lat": 6.3640079,
+  "lon": 2.4093206,
+  "tags": {
+    "amenity": "school",
+    "name": "Collège Châteaubriand"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729371,
+  "lat": 6.3527017,
+  "lon": 2.4377406,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez GUIGOZ"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729372,
+  "lat": 6.3561275,
+  "lon": 2.4399689,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Fast food CURTIS"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729373,
+  "lat": 6.3512366,
+  "lon": 2.4319818,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Gran Canaria"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729374,
+  "lat": 6.3546440,
+  "lon": 2.4368749,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "La Costa"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729375,
+  "lat": 6.3514355,
+  "lon": 2.4335155,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Laurencia"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729376,
+  "lat": 6.3568032,
+  "lon": 2.4411450,
+  "tags": {
+    "name": "Le Berlin",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729377,
+  "lat": 6.3569831,
+  "lon": 2.4411370,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Berlin"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729378,
+  "lat": 6.3549878,
+  "lon": 2.4387338,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729379,
+  "lat": 6.3566066,
+  "lon": 2.4393238,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Privé",
+    "phone": "97 29 17 17,21 31 46 76"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729380,
+  "lat": 6.3537736,
+  "lon": 2.4355942,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Terroir"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729381,
+  "lat": 6.3539282,
+  "lon": 2.4394083,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Les 3 Mousquetaires"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729382,
+  "lat": 6.3524474,
+  "lon": 2.4370896,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maman Poste"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729383,
+  "lat": 6.3533215,
+  "lon": 2.4380716,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Aux Parfums des Epices"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729384,
+  "lat": 6.3557515,
+  "lon": 2.4398134,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Chez AMY"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729385,
+  "lat": 6.3518393,
+  "lon": 2.4375667,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Chiken House"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729387,
+  "lat": 6.3539016,
+  "lon": 2.4388397,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Marie"
+  }
+},
+{
+  "type": "node",
+  "id": 4409729388,
+  "lat": 6.3514888,
+  "lon": 2.4334502,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis du Port"
+  }
+},
+{
+  "type": "node",
+  "id": 4409730089,
+  "lat": 6.3575762,
+  "lon": 2.4398871,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Mc Bouffe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4409730090,
+  "lat": 6.3545243,
+  "lon": 2.4360897,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "O’Grill"
+  }
+},
+{
+  "type": "node",
+  "id": 4409730091,
+  "lat": 6.3559889,
+  "lon": 2.4372411,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pizzeria Pizza&Pasta"
+  }
+},
+{
+  "type": "node",
+  "id": 4409730092,
+  "lat": 6.3544561,
+  "lon": 2.4366268,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "louange Bar Le Mijoto"
+  }
+},
+{
+  "type": "node",
+  "id": 4409730093,
+  "lat": 6.3528482,
+  "lon": 2.4375379,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "maquis Baha Cabana"
+  }
+},
+{
+  "type": "node",
+  "id": 4409752299,
+  "lat": 6.3514831,
+  "lon": 2.4333226,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Alegria"
+  }
+},
+{
+  "type": "node",
+  "id": 4409752300,
+  "lat": 6.3514564,
+  "lon": 2.4331174,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Diallo"
+  }
+},
+{
+  "type": "node",
+  "id": 4409752301,
+  "lat": 6.3514110,
+  "lon": 2.4329955,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Guigoz"
+  }
+},
+{
+  "type": "node",
+  "id": 4409752302,
+  "lat": 6.3524121,
+  "lon": 2.4344344,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4409752303,
+  "lat": 6.3526161,
+  "lon": 2.4350983,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4423500424,
+  "lat": 6.3533193,
+  "lon": 2.3999092,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Ecobank",
+    "brand:wikidata": "Q930225",
+    "opening_hours": "24/7",
+    "operator": "Ecobank",
+    "operator:wikidata": "Q930225",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4426129447,
+  "lat": 6.3833097,
+  "lon": 2.4251266,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Aïdjèdo"
+  }
+},
+{
+  "type": "node",
+  "id": 4431340039,
+  "lat": 6.3697670,
+  "lon": 2.4121136,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie de l’étoille"
+  }
+},
+{
+  "type": "node",
+  "id": 4443968692,
+  "lat": 6.3569827,
+  "lon": 2.3651070,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Pharmacie Oceane"
+  }
+},
+{
+  "type": "node",
+  "id": 4444021490,
+  "lat": 6.3612094,
+  "lon": 2.3793566,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restau Fidjrosse"
+  }
+},
+{
+  "type": "node",
+  "id": 4488813033,
+  "lat": 6.3608011,
+  "lon": 2.4373679,
+  "tags": {
+    "name": "Riveira Benin",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4488813050,
+  "lat": 6.3596681,
+  "lon": 2.4374349,
+  "tags": {
+    "name": "Mobydick",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4488813052,
+  "lat": 6.3594016,
+  "lon": 2.4370607,
+  "tags": {
+    "name": "Hotel Grillon",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4488813053,
+  "lat": 6.3592070,
+  "lon": 2.4368006,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Zatawi"
+  }
+},
+{
+  "type": "node",
+  "id": 4488813054,
+  "lat": 6.3583979,
+  "lon": 2.4371124,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bon Appetit"
+  }
+},
+{
+  "type": "node",
+  "id": 4488813055,
+  "lat": 6.3596335,
+  "lon": 2.4383422,
+  "tags": {
+    "name": "Le Prince",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4488813056,
+  "lat": 6.3597115,
+  "lon": 2.4384454,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Caramel"
+  }
+},
+{
+  "type": "node",
+  "id": 4488988029,
+  "lat": 6.3620333,
+  "lon": 2.4349601,
+  "tags": {
+    "name": "Residence Ilewa",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4488988032,
+  "lat": 6.3609816,
+  "lon": 2.4350070,
+  "tags": {
+    "name": "Vertigo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4489056836,
+  "lat": 6.3643522,
+  "lon": 2.4323023,
+  "tags": {
+    "addr:housenumber": "1140",
+    "amenity": "restaurant",
+    "name": "Bombay Tandoor"
+  }
+},
+{
+  "type": "node",
+  "id": 4489056843,
+  "lat": 6.3638924,
+  "lon": 2.4326939,
+  "tags": {
+    "name": "Magic Life",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4489074817,
+  "lat": 6.3585930,
+  "lon": 2.4364315,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Vogue"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669697,
+  "lat": 6.3667120,
+  "lon": 2.4297270,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Haikuo tiankong"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669724,
+  "lat": 6.3646068,
+  "lon": 2.4297807,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Dose dit Diallo"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669726,
+  "lat": 6.3644429,
+  "lon": 2.4299094,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Moderne"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669729,
+  "lat": 6.3639977,
+  "lon": 2.4298249,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Chez Angele"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669730,
+  "lat": 6.3641976,
+  "lon": 2.4300865,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Bar Chez tata vivi"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669732,
+  "lat": 6.3644009,
+  "lon": 2.4315838,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Bar Djembè"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669736,
+  "lat": 6.3632933,
+  "lon": 2.4311654,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Papou"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669738,
+  "lat": 6.3638645,
+  "lon": 2.4322651,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Benin Conduite"
+  }
+},
+{
+  "type": "node",
+  "id": 4494669749,
+  "lat": 6.3625196,
+  "lon": 2.4320217,
+  "tags": {
+    "name": "Sénator",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4494722788,
+  "lat": 6.3628342,
+  "lon": 2.4311895,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 4494751608,
+  "lat": 6.3599259,
+  "lon": 2.4330040,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Belle Grillades"
+  }
+},
+{
+  "type": "node",
+  "id": 4496563195,
+  "lat": 6.3606217,
+  "lon": 2.4341158,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ste louisienne Chez Aida"
+  }
+},
+{
+  "type": "node",
+  "id": 4550680287,
+  "lat": 6.3802702,
+  "lon": 2.4393172,
+  "tags": {
+    "beds": "50",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Peace Hôtel",
+    "operator": "Privé",
+    "rooms": "30",
+    "smoking": "yes",
+    "stars": "4",
+    "tourism": "hotel",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4554155299,
+  "lat": 6.3779061,
+  "lon": 2.3795707,
+  "tags": {
+    "name": "QUALIMAX HOTEL",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4554155300,
+  "lat": 6.3777289,
+  "lon": 2.3790168,
+  "tags": {
+    "name": "QUALIMAX Hôtel - Salle de fête et conférence",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4586597268,
+  "lat": 6.3587100,
+  "lon": 2.4279131,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "microbrewery": "yes",
+    "name": "Boss Stop",
+    "operator": "Libanaie",
+    "phone": "+22997449858",
+    "smoking": "yes",
+    "source": "Mapbox;Gps;Survey",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4586654371,
+  "lat": 6.3591985,
+  "lon": 2.4286638,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Mahuena"
+  }
+},
+{
+  "type": "node",
+  "id": 4586778592,
+  "lat": 6.3589976,
+  "lon": 2.4276076,
+  "tags": {
+    "amenity": "school",
+    "name": "École Maternelle Publique Gbéto Cotonou Lagune",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "node",
+  "id": 4598372090,
+  "lat": 6.3567557,
+  "lon": 2.4378603,
+  "tags": {
+    "addr:street": "Boulevard Steinmetz",
+    "amenity": "restaurant",
+    "cuisine": "italian_pizza;italian",
+    "name": "pizzeria chez dody",
+    "name:fr": "pizzeria chez dody"
+  }
+},
+{
+  "type": "node",
+  "id": 4616104261,
+  "lat": 6.3552865,
+  "lon": 2.4173495,
+  "tags": {
+    "addr:street": "Avenue Saint Michel",
+    "amenity": "restaurant",
+    "name": "Ci gusta !",
+    "opening_hours": "Mo-Su 08:00-00:00",
+    "phone": "96390101",
+    "website": "https://www.cigusta.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4677351631,
+  "lat": 6.3670433,
+  "lon": 2.4359976,
+  "tags": {
+    "addr:housenumber": "126",
+    "amenity": "school",
+    "name": "Ecole primaire publique nouveau pont"
+  }
+},
+{
+  "type": "node",
+  "id": 4704086891,
+  "lat": 6.3553373,
+  "lon": 2.3934755,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "african",
+    "name": "La bouffe du roi",
+    "name:fr": "La bouffe du roi"
+  }
+},
+{
+  "type": "node",
+  "id": 4704153689,
+  "lat": 6.3541409,
+  "lon": 2.3988459,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;indian",
+    "name": "Shamiana",
+    "name:fr": "Shamiana"
+  }
+},
+{
+  "type": "node",
+  "id": 4708422989,
+  "lat": 6.3537060,
+  "lon": 2.3883681,
+  "tags": {
+    "addr:street": "Route de l'aéroport",
+    "brand": "Best Western Plus",
+    "brand:wikidata": "Q38623383",
+    "name": "Best Western Plus",
+    "name:en": "Best Western Plus",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4709935118,
+  "lat": 6.3542750,
+  "lon": 2.3991824,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "russian",
+    "name": "Ruski Dom",
+    "phone": "+229 95956761"
+  }
+},
+{
+  "type": "node",
+  "id": 4709948930,
+  "lat": 6.3537330,
+  "lon": 2.3988780,
+  "tags": {
+    "amenity": "restaurant",
+    "delivery": "no",
+    "name": "Le trésor",
+    "outdoor_seating": "yes",
+    "stars": "2",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4728168825,
+  "lat": 6.3773395,
+  "lon": 2.3822363,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis bar le cheval blanc",
+    "phone": "97614969"
+  }
+},
+{
+  "type": "node",
+  "id": 4823885854,
+  "lat": 6.3632749,
+  "lon": 2.4121567,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4823885921,
+  "lat": 6.3636613,
+  "lon": 2.4118992,
+  "tags": {
+    "amenity": "school",
+    "name": "Centre de formation professionnelle des enseignants de la maternelle et du primaire"
+  }
+},
+{
+  "type": "node",
+  "id": 4855579921,
+  "lat": 6.3769857,
+  "lon": 2.4223460,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "La Congolaise",
+    "name:fr": "la Congolaise"
+  }
+},
+{
+  "type": "node",
+  "id": 4902272589,
+  "lat": 6.3658935,
+  "lon": 2.4830649,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe Scolaire Privée BEL AVENIR"
+  }
+},
+{
+  "type": "node",
+  "id": 4902272617,
+  "lat": 6.3619469,
+  "lon": 2.4824264,
+  "tags": {
+    "addr:city": "Cotonou",
+    "name": "Hotel Paloma",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4902958524,
+  "lat": 6.3568898,
+  "lon": 2.4004427,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "international;belgian;congo",
+    "name": "Luvulu",
+    "name:en": "Luvulu",
+    "name:fr": "Luvulu"
+  }
+},
+{
+  "type": "node",
+  "id": 4902973421,
+  "lat": 6.3553208,
+  "lon": 2.4046083,
+  "tags": {
+    "name": "Résidence Iléfiè",
+    "name:fr": "Résidence Iléfiè",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4946554800,
+  "lat": 6.3676130,
+  "lon": 2.4054176,
+  "tags": {
+    "name": "Petit Père",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4946554963,
+  "lat": 6.3628469,
+  "lon": 2.4029290,
+  "tags": {
+    "addr:housenumber": "383",
+    "addr:street": "12.120",
+    "name": "Le Flamboyant Résidence",
+    "phone": "+22994515396",
+    "tourism": "hotel",
+    "website": "www.ghflamboyant.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4946556111,
+  "lat": 6.3645771,
+  "lon": 2.4023234,
+  "tags": {
+    "addr:housenumber": "912",
+    "addr:street": "rue avlékété(12.117)",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Ste Philomène"
+  }
+},
+{
+  "type": "node",
+  "id": 4982873171,
+  "lat": 6.3571701,
+  "lon": 2.3928254,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Régal Végétarien"
+  }
+},
+{
+  "type": "node",
+  "id": 4982905457,
+  "lat": 6.3596035,
+  "lon": 2.3930633,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "african;barbecue;grill;international;local",
+    "name": "Queen Kong"
+  }
+},
+{
+  "type": "node",
+  "id": 4986798321,
+  "lat": 6.3567566,
+  "lon": 2.4300979,
+  "tags": {
+    "name": "Hôtel Nicolif",
+    "name:fr": "Hôtel Nicolif",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5012731722,
+  "lat": 6.3716728,
+  "lon": 2.4338282,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Nouvelle pharmacie Dantokpa",
+    "name:fr": "Nouvelle pharmacie Dantokpa"
+  }
+},
+{
+  "type": "node",
+  "id": 5024975622,
+  "lat": 6.3540436,
+  "lon": 2.4174195,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Bangkok Terrasse"
+  }
+},
+{
+  "type": "node",
+  "id": 5031894748,
+  "lat": 6.3759855,
+  "lon": 2.3611734,
+  "tags": {
+    "amenity": "school",
+    "name": "École Primaire Publique Agongbomey"
+  }
+},
+{
+  "type": "node",
+  "id": 5031908106,
+  "lat": 6.3801798,
+  "lon": 2.3639219,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie St Étienne d'Agla"
+  }
+},
+{
+  "type": "node",
+  "id": 5063437121,
+  "lat": 6.3597596,
+  "lon": 2.3988260,
+  "tags": {
+    "addr:housenumber": "941",
+    "addr:street": "12.120",
+    "amenity": "restaurant",
+    "cuisine": "african",
+    "name": "Le Noir",
+    "name:en": "The Black",
+    "name:fr": "Le noir"
+  }
+},
+{
+  "type": "node",
+  "id": 5063437221,
+  "lat": 6.3602205,
+  "lon": 2.3985804,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Dody's",
+    "name:en": "Dody's",
+    "name:fr": "Dody's"
+  }
+},
+{
+  "type": "node",
+  "id": 5077690121,
+  "lat": 6.3844965,
+  "lon": 2.3737763,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Angeo Attieke poisson braisée",
+    "name:fr": "Chez Angeo Attieke poisson braisée"
+  }
+},
+{
+  "type": "node",
+  "id": 5091746721,
+  "lat": 6.3498053,
+  "lon": 2.3655613,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Resto plage",
+    "name:fr": "Resto plage"
+  }
+},
+{
+  "type": "node",
+  "id": 5091746725,
+  "lat": 6.3604172,
+  "lon": 2.3769126,
+  "tags": {
+    "name": "Hotel Akwaba",
+    "name:fr": "Hotel Akwaba",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5159384021,
+  "lat": 6.3857213,
+  "lon": 2.3834148,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant Sublime"
+  }
+},
+{
+  "type": "node",
+  "id": 5174984221,
+  "lat": 6.3550506,
+  "lon": 2.4209558,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Forum"
+  }
+},
+{
+  "type": "node",
+  "id": 5195900410,
+  "lat": 6.3646390,
+  "lon": 2.4299428,
+  "tags": {
+    "abandoned": "no",
+    "amenity": "school",
+    "disused": "no",
+    "school:HT": "kindergarten"
+  }
+},
+{
+  "type": "node",
+  "id": 5196223621,
+  "lat": 6.3561679,
+  "lon": 2.4155894,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bar-restau « Les copains d’abord »"
+  }
+},
+{
+  "type": "node",
+  "id": 5209032431,
+  "lat": 6.3931238,
+  "lon": 2.3635378,
+  "tags": {
+    "addr:housenumber": "9",
+    "amenity": "school",
+    "name": "École Primaire Privee Mixte Vizalode"
+  }
+},
+{
+  "type": "node",
+  "id": 5215240878,
+  "lat": 6.3656864,
+  "lon": 2.4269321,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe Scolaires Saint Augustin"
+  }
+},
+{
+  "type": "node",
+  "id": 5215240880,
+  "lat": 6.3693008,
+  "lon": 2.4204969,
+  "tags": {
+    "addr:housenumber": "654",
+    "addr:street": "7026 (Rue Père au Pierre)",
+    "amenity": "restaurant",
+    "name": "Chez Bandera",
+    "phone": "97404205"
+  }
+},
+{
+  "type": "node",
+  "id": 5215952003,
+  "lat": 6.3560335,
+  "lon": 2.4145400,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pediatrie HIA"
+  }
+},
+{
+  "type": "node",
+  "id": 5215952015,
+  "lat": 6.3553811,
+  "lon": 2.4146914,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie"
+  }
+},
+{
+  "type": "node",
+  "id": 5219625328,
+  "lat": 6.3514761,
+  "lon": 2.4210681,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Ecobank",
+    "brand:wikidata": "Q930225",
+    "operator": "Ecobank",
+    "operator:wikidata": "Q930225"
+  }
+},
+{
+  "type": "node",
+  "id": 5219682955,
+  "lat": 6.3665553,
+  "lon": 2.4006434,
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:country": "BJ",
+    "addr:housenumber": "321",
+    "addr:place": "Vodjè- Kpota",
+    "addr:street": "12.138",
+    "amenity": "school",
+    "building": "public",
+    "building:levels": "1",
+    "name": "Complexe scolaire ABOUBAKAR",
+    "opening_hours": "08:00-12:00,15:00-17:30",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5247884553,
+  "lat": 6.3597706,
+  "lon": 2.4225319,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:phone": "0022997756484",
+    "name": "Maquis Pili-Pili"
+  }
+},
+{
+  "type": "node",
+  "id": 5295524722,
+  "lat": 6.3528132,
+  "lon": 2.4374312,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "l'imprévu"
+  }
+},
+{
+  "type": "node",
+  "id": 5296247622,
+  "lat": 6.3577974,
+  "lon": 2.3713780,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Kadi"
+  }
+},
+{
+  "type": "node",
+  "id": 5311564124,
+  "lat": 6.3620095,
+  "lon": 2.3753281,
+  "tags": {
+    "name": "Residence Hotel Ife et Ola",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5320968927,
+  "lat": 6.3770123,
+  "lon": 2.4066048,
+  "tags": {
+    "name": "Capricorne",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5320977621,
+  "lat": 6.3571687,
+  "lon": 2.4349168,
+  "tags": {
+    "name": "Chevalier",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5346619683,
+  "lat": 6.3906830,
+  "lon": 2.4322235,
+  "tags": {
+    "amenity": "school",
+    "name": "École Primaire Communautaire Espoir pour un Enfant"
+  }
+},
+{
+  "type": "node",
+  "id": 5380944140,
+  "lat": 6.3751211,
+  "lon": 2.3668843,
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole Primaire Plublique Agla Sud"
+  }
+},
+{
+  "type": "node",
+  "id": 5451865953,
+  "lat": 6.3742441,
+  "lon": 2.4217374,
+  "tags": {
+    "name:en": "Institut Biblique du Bénin (IBB)",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5459700023,
+  "lat": 6.3745694,
+  "lon": 2.3915312,
+  "tags": {
+    "addr:city": "Cotonou",
+    "amenity": "restaurant",
+    "brand": "Loving Hut",
+    "brand:wikidata": "Q3491655",
+    "brand:wikipedia": "en:Loving Hut",
+    "cuisine": "international",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "name": "Loving Hut",
+    "name:en": "Loving Food (vegan)",
+    "phone": "+229 96 681228"
+  }
+},
+{
+  "type": "node",
+  "id": 5459700025,
+  "lat": 6.3739318,
+  "lon": 2.4216343,
+  "tags": {
+    "name:en": "Pension de Famille",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5459729121,
+  "lat": 6.3769877,
+  "lon": 2.3952301,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "only",
+    "name": "Vegetalien Peace Food",
+    "name:en": "Peace Food (vegan)"
+  }
+},
+{
+  "type": "node",
+  "id": 5466032634,
+  "lat": 6.3670428,
+  "lon": 2.4200720,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Para Pharmacie Adechina"
+  }
+},
+{
+  "type": "node",
+  "id": 5468211002,
+  "lat": 6.3674883,
+  "lon": 2.4290317,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Les Grillades d'Ayinkè"
+  }
+},
+{
+  "type": "node",
+  "id": 5482586214,
+  "lat": 6.3905948,
+  "lon": 2.4291618,
+  "tags": {
+    "amenity": "school",
+    "name": "École Maternelle Privée Espace Éveil"
+  }
+},
+{
+  "type": "node",
+  "id": 5482890323,
+  "lat": 6.3887203,
+  "lon": 2.4321187,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Mur peint en bleu, en face du couvent Zangbeto Vali",
+    "name": "Cafeteriat \"Chez Jérôme\""
+  }
+},
+{
+  "type": "node",
+  "id": 5493162069,
+  "lat": 6.3924713,
+  "lon": 2.4282795,
+  "tags": {
+    "amenity": "school",
+    "name": "Centre Prescolaire des Soeurs Salesiennes de don Bosco"
+  }
+},
+{
+  "type": "node",
+  "id": 5516166121,
+  "lat": 6.3624634,
+  "lon": 2.4227196,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Maman Benin"
+  }
+},
+{
+  "type": "node",
+  "id": 5519148340,
+  "lat": 6.3541097,
+  "lon": 2.4208976,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "african",
+    "name": "La Residence",
+    "opening_hours": "Mo-Su 12:00-16:00; Mo-Su 18:30-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5521302721,
+  "lat": 6.3892494,
+  "lon": 2.4306314,
+  "tags": {
+    "amenity": "school",
+    "name": "CS le Chandelier du Jardin Emergent"
+  }
+},
+{
+  "type": "node",
+  "id": 5546147350,
+  "lat": 6.3565477,
+  "lon": 2.4341613,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "french;meditteranean",
+    "name": "Acropole"
+  }
+},
+{
+  "type": "node",
+  "id": 5546147355,
+  "lat": 6.3567930,
+  "lon": 2.3910518,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "lebanese;pizza",
+    "name": "Le Teranga"
+  }
+},
+{
+  "type": "node",
+  "id": 5546147357,
+  "lat": 6.3567946,
+  "lon": 2.3917404,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Tandoori Nights"
+  }
+},
+{
+  "type": "node",
+  "id": 5546147358,
+  "lat": 6.3566891,
+  "lon": 2.3926978,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "La Plancha"
+  }
+},
+{
+  "type": "node",
+  "id": 5557397295,
+  "lat": 6.3814077,
+  "lon": 2.4406244,
+  "tags": {
+    "name": "Hôtel Affah",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5557518225,
+  "lat": 6.3829063,
+  "lon": 2.4172274,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 5652564670,
+  "lat": 6.3630537,
+  "lon": 2.3995215,
+  "tags": {
+    "name": "Home Résidence Hôtel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5688352232,
+  "lat": 6.3894879,
+  "lon": 2.3811793,
+  "tags": {
+    "amenity": "school",
+    "name": "Csp Félix Houphouët-Boigny"
+  }
+},
+{
+  "type": "node",
+  "id": 5749795307,
+  "lat": 6.3537228,
+  "lon": 2.3752012,
+  "tags": {
+    "amenity": "school",
+    "name": "Les Lauriers"
+  }
+},
+{
+  "type": "node",
+  "id": 5756107536,
+  "lat": 6.3879967,
+  "lon": 2.3759101,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacopée chinoise"
+  }
+},
+{
+  "type": "node",
+  "id": 5756107554,
+  "lat": 6.3881187,
+  "lon": 2.3762065,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Auto-Ecole Le rookey"
+  }
+},
+{
+  "type": "node",
+  "id": 5756322434,
+  "lat": 6.3875872,
+  "lon": 2.3742911,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bar-restau le Classic"
+  }
+},
+{
+  "type": "node",
+  "id": 5796076905,
+  "lat": 6.3721447,
+  "lon": 2.4161030,
+  "tags": {
+    "amenity": "school",
+    "name": "Epp Binazon"
+  }
+},
+{
+  "type": "node",
+  "id": 5796076907,
+  "lat": 6.3718864,
+  "lon": 2.4155939,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire Nord-Sud"
+  }
+},
+{
+  "type": "node",
+  "id": 5799355053,
+  "lat": 6.3715125,
+  "lon": 2.4085582,
+  "tags": {
+    "amenity": "school",
+    "name": "Collège Pacôme YAMADJAKO",
+    "phone": "21383010"
+  }
+},
+{
+  "type": "node",
+  "id": 5799358157,
+  "lat": 6.3729663,
+  "lon": 2.4085003,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant Chez Adé"
+  }
+},
+{
+  "type": "node",
+  "id": 5799359158,
+  "lat": 6.3703433,
+  "lon": 2.4093867,
+  "tags": {
+    "name": "Hôtel star heber",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5799359291,
+  "lat": 6.3779359,
+  "lon": 2.4176819,
+  "tags": {
+    "name": "Hôtel SOSSA",
+    "phone": "21381363",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5799359299,
+  "lat": 6.3779453,
+  "lon": 2.4160568,
+  "tags": {
+    "addr:street": "rue 8.006",
+    "amenity": "school",
+    "name": "ISEG",
+    "phone": "66517650"
+  }
+},
+{
+  "type": "node",
+  "id": 5799359300,
+  "lat": 6.3781316,
+  "lon": 2.4141154,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire sikè-nord",
+    "phone": "21322818"
+  }
+},
+{
+  "type": "node",
+  "id": 5811711455,
+  "lat": 6.3576837,
+  "lon": 2.3693605,
+  "tags": {
+    "amenity": "school",
+    "name": "CS bilingue Jules William",
+    "phone": "+22995600853"
+  }
+},
+{
+  "type": "node",
+  "id": 5814393751,
+  "lat": 6.3649057,
+  "lon": 2.4229617,
+  "tags": {
+    "name": "Benin Royal Hôtel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5856399013,
+  "lat": 6.3577954,
+  "lon": 2.3717257,
+  "tags": {
+    "check_date": "2026-02-08",
+    "name": "Hotel Sun Beach",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5856399014,
+  "lat": 6.3543693,
+  "lon": 2.4043167,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pesto"
+  }
+},
+{
+  "type": "node",
+  "id": 5856399016,
+  "lat": 6.3570326,
+  "lon": 2.3955385,
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "node",
+  "id": 5864442788,
+  "lat": 6.3659368,
+  "lon": 2.4166272,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Amen"
+  }
+},
+{
+  "type": "node",
+  "id": 5871908871,
+  "lat": 6.3475463,
+  "lon": 2.3908632,
+  "tags": {
+    "name": "Hôtel Maison Rouge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5871910931,
+  "lat": 6.3861653,
+  "lon": 2.4045443,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Fifadji"
+  }
+},
+{
+  "type": "node",
+  "id": 5962984391,
+  "lat": 6.3564829,
+  "lon": 2.4275943,
+  "tags": {
+    "amenity": "school",
+    "name": "Université Sunu"
+  }
+},
+{
+  "type": "node",
+  "id": 6060566985,
+  "lat": 6.3518912,
+  "lon": 2.3946647,
+  "tags": {
+    "amenity": "school",
+    "name": "École Montaigne",
+    "name:en": "EFE Montaigne",
+    "wikidata": "Q19461625",
+    "wikipedia:en": "Établissement Français d'Enseignement Montaigne"
+  }
+},
+{
+  "type": "node",
+  "id": 6109324664,
+  "lat": 6.3608786,
+  "lon": 2.3792548,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Don de Dieu",
+    "operator": "Privé"
+  }
+},
+{
+  "type": "node",
+  "id": 6123231787,
+  "lat": 6.3656311,
+  "lon": 2.4135524,
+  "tags": {
+    "name": "Hôtel JC",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6202995913,
+  "lat": 6.3800810,
+  "lon": 2.3651820,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "CCF"
+  }
+},
+{
+  "type": "node",
+  "id": 6297694132,
+  "lat": 6.3573720,
+  "lon": 2.4403864,
+  "tags": {
+    "amenity": "atm",
+    "currency:CFA": "yes",
+    "opening_hours:atm": "24h"
+  }
+},
+{
+  "type": "node",
+  "id": 6297719093,
+  "lat": 6.3605303,
+  "lon": 2.4444476,
+  "tags": {
+    "name": "Serena Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6297719094,
+  "lat": 6.3607742,
+  "lon": 2.4446670,
+  "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 6312439510,
+  "lat": 6.3713229,
+  "lon": 2.4279669,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Milles et une Bouillie"
+  }
+},
+{
+  "type": "node",
+  "id": 6320901785,
+  "lat": 6.3565100,
+  "lon": 2.3997536,
+  "tags": {
+    "amenity": "atm",
+    "operator": "Ecobank ATM"
+  }
+},
+{
+  "type": "node",
+  "id": 6322983685,
+  "lat": 6.3771090,
+  "lon": 2.4015002,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Maman Mélissa"
+  }
+},
+{
+  "type": "node",
+  "id": 6360018989,
+  "lat": 6.3620294,
+  "lon": 2.3805632,
+  "tags": {
+    "name": "Le Soleil",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6468195587,
+  "lat": 6.3646441,
+  "lon": 2.3849523,
+  "tags": {
+    "amenity": "school",
+    "name": "video leader"
+  }
+},
+{
+  "type": "node",
+  "id": 6475127588,
+  "lat": 6.3806769,
+  "lon": 2.4313288,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Femi"
+  }
+},
+{
+  "type": "node",
+  "id": 6479417302,
+  "lat": 6.3540580,
+  "lon": 2.3897925,
+  "tags": {
+    "name": "Hôtel de l'Entente",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6670503589,
+  "lat": 6.3566757,
+  "lon": 2.3987385,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Société Générale",
+    "brand:wikidata": "Q270363",
+    "opening_hours": "24/7",
+    "operator": "Société Générale",
+    "operator:wikidata": "Q270363"
+  }
+},
+{
+  "type": "node",
+  "id": 6840915185,
+  "lat": 6.3510616,
+  "lon": 2.4251903,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Bank of Africa",
+    "brand:wikidata": "Q2882627",
+    "opening_hours": "24/7",
+    "operator": "Bank of Africa",
+    "operator:wikidata": "Q2882627",
+    "short_name": "BOA"
+  }
+},
+{
+  "type": "node",
+  "id": 6876017332,
+  "lat": 6.3558175,
+  "lon": 2.3911887,
+  "tags": {
+    "addr:housenumber": "57",
+    "amenity": "music_school",
+    "name": "Etrilabs formation"
+  }
+},
+{
+  "type": "node",
+  "id": 6876022656,
+  "lat": 6.3603600,
+  "lon": 2.3940603,
+  "tags": {
+    "addr:housenumber": "380",
+    "amenity": "school",
+    "name": "EtriLabs"
+  }
+},
+{
+  "type": "node",
+  "id": 6887554728,
+  "lat": 6.3681646,
+  "lon": 2.4231629,
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:postcode": "00229",
+    "addr:street": "Rue 7.018",
+    "amenity": "school",
+    "name": "Groupe Scolaire La Source",
+    "operator": "Groupe Scolaire La Source"
+  }
+},
+{
+  "type": "node",
+  "id": 6926177388,
+  "lat": 6.3756403,
+  "lon": 2.3575570,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Safari"
+  }
+},
+{
+  "type": "node",
+  "id": 6966704885,
+  "lat": 6.3686477,
+  "lon": 2.4032719,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Phamarcie Ste Foi"
+  }
+},
+{
+  "type": "node",
+  "id": 6989608751,
+  "lat": 6.3880793,
+  "lon": 2.4260415,
+  "tags": {
+    "amenity": "school",
+    "name": "La Gloire de Dieu"
+  }
+},
+{
+  "type": "node",
+  "id": 6989609295,
+  "lat": 6.3758220,
+  "lon": 2.3565754,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Fernanb"
+  }
+},
+{
+  "type": "node",
+  "id": 6989618193,
+  "lat": 6.3743102,
+  "lon": 2.3576858,
+  "tags": {
+    "amenity": "driving_school",
+    "name": "Chritobal"
+  }
+},
+{
+  "type": "node",
+  "id": 6989619810,
+  "lat": 6.3717787,
+  "lon": 2.3569166,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Luli Luli"
+  }
+},
+{
+  "type": "node",
+  "id": 7000338830,
+  "lat": 6.3819842,
+  "lon": 2.4636670,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie HOUNCHEDE"
+  }
+},
+{
+  "type": "node",
+  "id": 7191382986,
+  "lat": 6.3677860,
+  "lon": 2.4261693,
+  "tags": {
+    "addr:street": "Boulevard Saint Michel",
+    "name": "Hôtel Petit Babo",
+    "name:en": "Petit Babo hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7239376865,
+  "lat": 6.3507167,
+  "lon": 2.3621417,
+  "tags": {
+    "name": "Residences Céline Hôtel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7620227488,
+  "lat": 6.3674900,
+  "lon": 2.4947933,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Times"
+  }
+},
+{
+  "type": "node",
+  "id": 7632703554,
+  "lat": 6.3910087,
+  "lon": 2.3912541,
+  "tags": {
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "african",
+    "delivery": "yes",
+    "internet_access": "wlan",
+    "name": "La Bouffe du Roi",
+    "phone": "+229 97088730",
+    "reservation": "yes",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7684794071,
+  "lat": 6.3518259,
+  "lon": 2.4358052,
+  "tags": {
+    "addr:housenumber": "05 BP 347",
+    "contact:email": "hotellaplage@azalaihotels.com",
+    "contact:fax": "+229 21 31 72 69",
+    "contact:phone": "+229 21 31 72 00",
+    "name": "Azalaï Hôtel de la Plage",
+    "tourism": "hotel",
+    "website": "https://www.azalai.com/azalai-hotel-cotonou"
+  }
+},
+{
+  "type": "node",
+  "id": 7699976144,
+  "lat": 6.3544889,
+  "lon": 2.4168393,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Clarisse"
+  }
+},
+{
+  "type": "node",
+  "id": 7699976146,
+  "lat": 6.3541984,
+  "lon": 2.4173194,
+  "tags": {
+    "contact:website": "http://lezenith-hotel.com",
+    "name": "Le Zénith Hôtel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7703008771,
+  "lat": 6.3492081,
+  "lon": 2.4015695,
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:country": "BJ",
+    "addr:street": "Boulevard de la Marina",
+    "brand": "Ibis",
+    "brand:wikidata": "Q920166",
+    "contact:website": "https://all.accor.com/hotel/6681/index.fr.shtml?dateIn=&nights=&compositions=1&stayplus=false#origin=accor",
+    "name": "ibis Cotonou",
+    "operator": "Accor Group",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7716281574,
+  "lat": 6.3593299,
+  "lon": 2.4460043,
+  "tags": {
+    "name": "Hôtel du Lac - Villa",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7743156017,
+  "lat": 6.3826817,
+  "lon": 2.4456633,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Maman Tibo"
+  }
+},
+{
+  "type": "node",
+  "id": 7743203920,
+  "lat": 6.3553686,
+  "lon": 2.4567854,
+  "tags": {
+    "name": "Hôtel Tahiti",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7791419795,
+  "lat": 6.3847282,
+  "lon": 2.4028404,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Saint Luc"
+  }
+},
+{
+  "type": "node",
+  "id": 7791419796,
+  "lat": 6.3567717,
+  "lon": 2.3943096,
+  "tags": {
+    "name": "Livinston",
+    "name:fr": "Livingstone",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7791517285,
+  "lat": 6.3888997,
+  "lon": 2.3754454,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "BOBOSSO"
+  }
+},
+{
+  "type": "node",
+  "id": 7796667485,
+  "lat": 6.3596192,
+  "lon": 2.3988136,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "100 % PLAISIR"
+  }
+},
+{
+  "type": "node",
+  "id": 7881325585,
+  "lat": 6.3566744,
+  "lon": 2.3928756,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "thai;vietnamese",
+    "name": "Thai-Tanh II"
+  }
+},
+{
+  "type": "node",
+  "id": 8111375726,
+  "lat": 6.3570172,
+  "lon": 2.3971330,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "african;mexican",
+    "name": "Pura Vida"
+  }
+},
+{
+  "type": "node",
+  "id": 8124166818,
+  "lat": 6.3538732,
+  "lon": 2.3958470,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "lebanese",
+    "name": "Mandarine"
+  }
+},
+{
+  "type": "node",
+  "id": 8124684718,
+  "lat": 6.3662410,
+  "lon": 2.4244810,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Eidinimos"
+  }
+},
+{
+  "type": "node",
+  "id": 8124686817,
+  "lat": 6.3651734,
+  "lon": 2.4231929,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "chez maman Bignon"
+  }
+},
+{
+  "type": "node",
+  "id": 8136942878,
+  "lat": 6.3744689,
+  "lon": 2.4112522,
+  "tags": {
+    "addr:housenumber": "228",
+    "addr:street": "Rue 8.012",
+    "name": "Hôtel KTA",
+    "phone": "21321227",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8172204828,
+  "lat": 6.3777975,
+  "lon": 2.4108333,
+  "tags": {
+    "name": "Espace Ifedu",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8252874092,
+  "lat": 6.3774718,
+  "lon": 2.4746653,
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:housenumber": "151",
+    "addr:street": "Rue 1322",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "regional;pizza;burger;african;european",
+    "internet_access": "yes",
+    "name": "Story lounge bar - restarant",
+    "opening_hours": "24/7",
+    "phone": "+229 66 84 85 84",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8256673535,
+  "lat": 6.3654875,
+  "lon": 2.4145259,
+  "tags": {
+    "amenity": "school",
+    "name": "École maternelle publique st Jean Cotonou"
+  }
+},
+{
+  "type": "node",
+  "id": 8278248118,
+  "lat": 6.3650466,
+  "lon": 2.4279914,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Lion Indomptable"
+  }
+},
+{
+  "type": "node",
+  "id": 8278560660,
+  "lat": 6.3878316,
+  "lon": 2.4436284,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire Bouba"
+  }
+},
+{
+  "type": "node",
+  "id": 8293928321,
+  "lat": 6.3585206,
+  "lon": 2.4289428,
+  "tags": {
+    "name": "Résidence Mosaly",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8314964717,
+  "lat": 6.3855050,
+  "lon": 2.4049221,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "MOYO LIO"
+  }
+},
+{
+  "type": "node",
+  "id": 8345699543,
+  "lat": 6.3677172,
+  "lon": 2.4184705,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Planète Plus",
+    "phone": "64257119"
+  }
+},
+{
+  "type": "node",
+  "id": 8478625908,
+  "lat": 6.3802937,
+  "lon": 2.4467346,
+  "tags": {
+    "name": "Dembe Apart Hôtel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8488123382,
+  "lat": 6.3614011,
+  "lon": 2.3738926,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Festival des Glaces"
+  }
+},
+{
+  "type": "node",
+  "id": 8525545705,
+  "lat": 6.3690550,
+  "lon": 2.4068833,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "ETS Vikaya"
+  }
+},
+{
+  "type": "node",
+  "id": 8532114532,
+  "lat": 6.3769719,
+  "lon": 2.3956606,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant le Lapin"
+  }
+},
+{
+  "type": "node",
+  "id": 8532200593,
+  "lat": 6.3775850,
+  "lon": 2.3944844,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Alba Résidence",
+    "phone": "90161716"
+  }
+},
+{
+  "type": "node",
+  "id": 8532487826,
+  "lat": 6.3631750,
+  "lon": 2.4215614,
+  "tags": {
+    "addr:housenumber": "960",
+    "addr:street": "Rue 7.012 Rue des Missions",
+    "amenity": "school",
+    "name": "Complexe Scolaire Calin'Ours"
+  }
+},
+{
+  "type": "node",
+  "id": 8571664205,
+  "lat": 6.3816735,
+  "lon": 2.4109550,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Attiekèdrome"
+  }
+},
+{
+  "type": "node",
+  "id": 8626500617,
+  "lat": 6.3797918,
+  "lon": 2.3984946,
+  "tags": {
+    "name": "Hôtel à vedoko",
+    "name:en": "Vedoko hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8626500717,
+  "lat": 6.3849252,
+  "lon": 2.4160283,
+  "tags": {
+    "amenity": "school",
+    "name": "École la RÉFÉRENCE"
+  }
+},
+{
+  "type": "node",
+  "id": 9087976017,
+  "lat": 6.3725763,
+  "lon": 2.4129680,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "african",
+    "name": "restaurant ivoirien"
+  }
+},
+{
+  "type": "node",
+  "id": 9152046117,
+  "lat": 6.3647657,
+  "lon": 2.4283105,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Sénégalais Tchep"
+  }
+},
+{
+  "type": "node",
+  "id": 9273140081,
+  "lat": 6.3698869,
+  "lon": 2.4200082,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant Sénégalais"
+  }
+},
+{
+  "type": "node",
+  "id": 9273190871,
+  "lat": 6.3490205,
+  "lon": 2.4032908,
+  "tags": {
+    "brand": "Golden Tulip",
+    "brand:wikidata": "Q19725996",
+    "name": "Golden Tulip",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9274157017,
+  "lat": 6.3673730,
+  "lon": 2.4214899,
+  "tags": {
+    "name": "Hôtel de France",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9275249717,
+  "lat": 6.3514326,
+  "lon": 2.4336265,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis du PORT",
+    "name:fr": "MAQUIS DU PORT"
+  }
+},
+{
+  "type": "node",
+  "id": 9277779317,
+  "lat": 6.3660027,
+  "lon": 2.4435204,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maquis Le Kedjenou"
+  }
+},
+{
+  "type": "node",
+  "id": 9293527717,
+  "lat": 6.3630580,
+  "lon": 2.4108364,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant Chez Dé Dé"
+  }
+},
+{
+  "type": "node",
+  "id": 9327079917,
+  "lat": 6.3764134,
+  "lon": 2.4510108,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez YOVO Chercheur"
+  }
+},
+{
+  "type": "node",
+  "id": 9439639817,
+  "lat": 6.3618285,
+  "lon": 2.4031496,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Saveur Royale"
+  }
+},
+{
+  "type": "node",
+  "id": 9562061917,
+  "lat": 6.3625664,
+  "lon": 2.4774291,
+  "tags": {
+    "name": "Hôtel Elim",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9628471517,
+  "lat": 6.3609703,
+  "lon": 2.3970021,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant Chez Maman José"
+  }
+},
+{
+  "type": "node",
+  "id": 9641299881,
+  "lat": 6.3920659,
+  "lon": 2.3648390,
+  "tags": {
+    "addr:city": "Cotonou",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "pharmarcie kindonnou"
+  }
+},
+{
+  "type": "node",
+  "id": 9836460824,
+  "lat": 6.3597442,
+  "lon": 2.4355100,
+  "tags": {
+    "name": "New Rivoli Hôtel Bénin",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9836973063,
+  "lat": 6.3661300,
+  "lon": 2.4757290,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmaquick"
+  }
+},
+{
+  "type": "node",
+  "id": 9905022512,
+  "lat": 6.3531460,
+  "lon": 2.3647488,
+  "tags": {
+    "amenity": "restaurant",
+    "brewery": "various",
+    "cuisine": "international",
+    "description": "Restaurant",
+    "name": "Villa Kaya",
+    "smoking": "yes",
+    "website": "https://www.facebook.com/villakaya229/"
+  }
+},
+{
+  "type": "node",
+  "id": 9984153517,
+  "lat": 6.3535166,
+  "lon": 2.3908688,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "COSY POOL",
+    "opening_hours": "Mo-Su 09:00-00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10018436011,
+  "lat": 6.3896045,
+  "lon": 2.3812714,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire Félix Houphët Boigny (Maternel et primaire)"
+  }
+},
+{
+  "type": "node",
+  "id": 10018597757,
+  "lat": 6.3885967,
+  "lon": 2.3827078,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire Baptiste sois un model"
+  }
+},
+{
+  "type": "node",
+  "id": 10018600313,
+  "lat": 6.3872847,
+  "lon": 2.3826080,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bar Restaurant Oasis des délices",
+    "phone": "90388939"
+  }
+},
+{
+  "type": "node",
+  "id": 10027682049,
+  "lat": 6.3929882,
+  "lon": 2.3778286,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez nangan",
+    "phone": "97224686"
+  }
+},
+{
+  "type": "node",
+  "id": 10154973243,
+  "lat": 6.3869133,
+  "lon": 2.3819933,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire Félix Houphët Boigny (Primaire et secondaire)"
+  }
+},
+{
+  "type": "node",
+  "id": 10171751158,
+  "lat": 6.3881138,
+  "lon": 2.3794789,
+  "tags": {
+    "amenity": "school",
+    "name": "IMA : Institut de Multimédia Appliqué"
+  }
+},
+{
+  "type": "node",
+  "id": 10173921257,
+  "lat": 6.3884388,
+  "lon": 2.3800907,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe Scolaire Catholique PADRE PIO"
+  }
+},
+{
+  "type": "node",
+  "id": 10173933523,
+  "lat": 6.3900824,
+  "lon": 2.3790512,
+  "tags": {
+    "amenity": "school",
+    "name": "École maternelle primaire LA Ronde"
+  }
+},
+{
+  "type": "node",
+  "id": 10173951843,
+  "lat": 6.3893073,
+  "lon": 2.3857104,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe Scolaire Henri Ahoyo"
+  }
+},
+{
+  "type": "node",
+  "id": 10176038578,
+  "lat": 6.3902684,
+  "lon": 2.3857847,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "CABINET DE SOIN EX CRASIB ONG D"
+  }
+},
+{
+  "type": "node",
+  "id": 10176040235,
+  "lat": 6.3898168,
+  "lon": 2.3870696,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Dimension Locale"
+  }
+},
+{
+  "type": "node",
+  "id": 10176046337,
+  "lat": 6.3906159,
+  "lon": 2.3851954,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Clinique Sainte Gerarda"
+  }
+},
+{
+  "type": "node",
+  "id": 10176088369,
+  "lat": 6.3899411,
+  "lon": 2.3786907,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bar restaurant chez Dinos"
+  }
+},
+{
+  "type": "node",
+  "id": 10176096155,
+  "lat": 6.3907196,
+  "lon": 2.3778523,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire universitaire clé de la réussite"
+  }
+},
+{
+  "type": "node",
+  "id": 10176100008,
+  "lat": 6.3910228,
+  "lon": 2.3785571,
+  "tags": {
+    "amenity": "school",
+    "name": "École maternelle et primaire Émilie de Villeneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 10176114702,
+  "lat": 6.3900484,
+  "lon": 2.3797470,
+  "tags": {
+    "amenity": "school",
+    "name": "GRACE VINE School"
+  }
+},
+{
+  "type": "node",
+  "id": 10207213817,
+  "lat": 6.3765312,
+  "lon": 2.4497127,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "MALIBOU II (Ignames pilés)"
+  }
+},
+{
+  "type": "node",
+  "id": 10209823617,
+  "lat": 6.3636442,
+  "lon": 2.4100061,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "AKWAABA",
+    "phone": "0022995965123"
+  }
+},
+{
+  "type": "node",
+  "id": 10221053917,
+  "lat": 6.3574387,
+  "lon": 2.3690829,
+  "tags": {
+    "addr:street": "Fidjrossé",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Moonlight Rooftop"
+  }
+},
+{
+  "type": "node",
+  "id": 10224922073,
+  "lat": 6.3622122,
+  "lon": 2.3969896,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Qube",
+    "phone": "+22997440471"
+  }
+},
+{
+  "type": "node",
+  "id": 10224929191,
+  "lat": 6.3668659,
+  "lon": 2.4139144,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Spécialité Igname Pilée"
+  }
+},
+{
+  "type": "node",
+  "id": 10574117625,
+  "lat": 6.3817387,
+  "lon": 2.4112905,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 10603982205,
+  "lat": 6.3540862,
+  "lon": 2.3701809,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Nous"
+  }
+},
+{
+  "type": "node",
+  "id": 10665093806,
+  "lat": 6.3602688,
+  "lon": 2.4539490,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le KIDOU",
+    "phone": "0022991954848"
+  }
+},
+{
+  "type": "node",
+  "id": 10745132905,
+  "lat": 6.3698114,
+  "lon": 2.4149735,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cuisine du chef",
+    "opening_hours": "Mo-Sa 09:00-23:00",
+    "phone": "64178080"
+  }
+},
+{
+  "type": "node",
+  "id": 10778864705,
+  "lat": 6.3730636,
+  "lon": 2.4050902,
+  "tags": {
+    "name": "Très jolie",
+    "name:en": "VERY NICE",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10964007365,
+  "lat": 6.3713697,
+  "lon": 2.3602526,
+  "tags": {
+    "name": "Résidence Ivoire",
+    "phone": "64998460",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10970593776,
+  "lat": 6.3580837,
+  "lon": 2.4357489,
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole urbaine centre"
+  }
+},
+{
+  "type": "node",
+  "id": 10970596037,
+  "lat": 6.3593758,
+  "lon": 2.4324090,
+  "tags": {
+    "name": "Golden BED",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11001163912,
+  "lat": 6.3610769,
+  "lon": 2.3976704,
+  "tags": {
+    "name": "Hôtel les Horizons",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11148841173,
+  "lat": 6.3890699,
+  "lon": 2.4454373,
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe Scolaire Ciracide"
+  }
+},
+{
+  "type": "node",
+  "id": 11291828569,
+  "lat": 6.3545620,
+  "lon": 2.3650693,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Le Merlin",
+    "opening_hours": "24/7",
+    "phone": "+22969606095"
+  }
+},
+{
+  "type": "node",
+  "id": 11328158269,
+  "lat": 6.3548817,
+  "lon": 2.4189825,
+  "tags": {
+    "name:en": "L'Address Bar-PiscineRestaurant",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11394261685,
+  "lat": 6.3545445,
+  "lon": 2.4232164,
+  "tags": {
+    "name:en": "L'Address Bar-PiscineRestaurant",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11429161987,
+  "lat": 6.3797729,
+  "lon": 2.3790046,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "KP foods",
+    "phone": "94480809"
+  }
+},
+{
+  "type": "node",
+  "id": 11492329056,
+  "lat": 6.3608466,
+  "lon": 2.4132921,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Meilleur igname pilé de Cotonou",
+    "name": "Chez Maman Aimée"
+  }
+},
+{
+  "type": "node",
+  "id": 11563921571,
+  "lat": 6.3721829,
+  "lon": 2.4788198,
+  "tags": {
+    "amenity": "pharmacy",
+    "description": "Vérité terrain",
+    "healthcare": "pharmacy",
+    "name": "Siloé Dégakon",
+    "phone": "99070606"
+  }
+},
+{
+  "type": "node",
+  "id": 11569074793,
+  "lat": 6.3518160,
+  "lon": 2.3616592,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ivorian",
+    "name": "Piment Rouge",
+    "website": "https://restaurantpimentrouge.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 11750911625,
+  "lat": 6.3565930,
+  "lon": 2.3919057,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Antika"
+  }
+},
+{
+  "type": "node",
+  "id": 11835612169,
+  "lat": 6.3703232,
+  "lon": 2.4436332,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11836979638,
+  "lat": 6.3626375,
+  "lon": 2.4251736,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Igname pilée",
+    "name": "Maquis chez Rach",
+    "phone": "+22997442827"
+  }
+},
+{
+  "type": "node",
+  "id": 12061596155,
+  "lat": 6.3636651,
+  "lon": 2.4083193,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie de Gbegamey"
+  }
+},
+{
+  "type": "node",
+  "id": 12061596531,
+  "lat": 6.3671418,
+  "lon": 2.4128430,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant the Meet's story"
+  }
+},
+{
+  "type": "node",
+  "id": 12061611596,
+  "lat": 6.3645568,
+  "lon": 2.4094106,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Mice Cream",
+    "phone": "61619191"
+  }
+},
+{
+  "type": "node",
+  "id": 12109076380,
+  "lat": 6.3744132,
+  "lon": 2.4138776,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Dagan",
+    "phone": "+229 96 12 16 37"
+  }
+},
+{
+  "type": "node",
+  "id": 12125307694,
+  "lat": 6.3679227,
+  "lon": 2.3899426,
+  "tags": {
+    "amenity": "hospital",
+    "denomination": "catholic",
+    "name": "Maison Saint Jean de Dieu",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 12138637335,
+  "lat": 6.3857986,
+  "lon": 2.3840374,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Flora Food"
+  }
+},
+{
+  "type": "node",
+  "id": 12153519101,
+  "lat": 6.3597396,
+  "lon": 2.4384774,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "seafood",
+    "name": "La Pirogue",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "website:menu": "https://www.canva.com/design/DAFUukMpZcg/ZBhlbYiHtRAH8uBgYr4kgQ/edit?utm_content=DAFUukMpZcg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+  }
+},
+{
+  "type": "node",
+  "id": 12552234990,
+  "lat": 6.3494625,
+  "lon": 2.3937134,
+  "tags": {
+    "brand": "Sofitel",
+    "name": "Sofitel Cotonou Marina Hotel & Spa",
+    "not:brand:wikidata": "Q749431",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://sofitel.accor.com/fr/hotels/B845.html"
+  }
+},
+{
+  "type": "node",
+  "id": 12762241909,
+  "lat": 6.3557352,
+  "lon": 2.4013583,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Restaurant viande de porc"
+  }
+},
+{
+  "type": "node",
+  "id": 12803377285,
+  "lat": 6.3496126,
+  "lon": 2.3865425,
+  "tags": {
+    "amenity": "atm",
+    "brand": "Bank of Africa",
+    "brand:wikidata": "Q2882627",
+    "cash_in": "no",
+    "operator": "Bank of Africa",
+    "operator:wikidata": "Q2882627",
+    "short_name": "BOA"
+  }
+},
+{
+  "type": "node",
+  "id": 12817457101,
+  "lat": 6.3779912,
+  "lon": 2.3843033,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Albertine food (Attieke)",
+    "phone": "0022966946394"
+  }
+},
+{
+  "type": "node",
+  "id": 13283071401,
+  "lat": 6.3515441,
+  "lon": 2.4201298,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Hotel Tamarin",
+    "tourism": "hotel",
+    "website": "https://tamarinhotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13428582708,
+  "lat": 6.3577461,
+  "lon": 2.3668613,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Café Antoine"
+  }
+},
+{
+  "type": "node",
+  "id": 13435794588,
+  "lat": 6.3578225,
+  "lon": 2.3702575,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie la Madone"
+  }
+},
+{
+  "type": "node",
+  "id": 13435794589,
+  "lat": 6.3547035,
+  "lon": 2.3655728,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Le Resto"
+  }
+},
+{
+  "type": "node",
+  "id": 13483905565,
+  "lat": 6.3687444,
+  "lon": 2.4012952,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bomiwordrome"
+  }
+},
+{
+  "type": "node",
+  "id": 13483908805,
+  "lat": 6.3801926,
+  "lon": 2.3838267,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chez Maman Paterne"
+  }
+},
+{
+  "type": "node",
+  "id": 13483961856,
+  "lat": 6.3821461,
+  "lon": 2.4030434,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Viande de porc braisée",
+    "name": "LA GRACE DIVINE CHEZ SOEUR VEE"
+  }
+},
+{
+  "type": "node",
+  "id": 13531946226,
+  "lat": 6.3724407,
+  "lon": 2.4493092,
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:street": "Akpakpa",
+    "amenity": "restaurant",
+    "check_date": "2026-02-05",
+    "check_date:currency:XBT": "2026-02-05",
+    "contact:facebook": "https://www.facebook.com/afrosnacksofficiel/",
+    "contact:instagram": "https://www.instagram.com/therealafrosnacks",
+    "cuisine": "sandwich;frozen_yogurt;fish_and_chips",
+    "currency:XBT": "yes",
+    "delivery": "yes",
+    "email": "diamondq748@yahoo.com",
+    "name": "AfroSnacks",
+    "opening_hours": "Tu-Sa 09:00-20:00",
+    "payment:cash": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+229 019 272 1181",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13535464593,
+  "lat": 6.3580548,
+  "lon": 2.3717463,
+  "tags": {
+    "amenity": "restaurant",
+    "description": "Restauration sur place et à emporter, simple et pas cher dans un cadre soigné et accueil chaleureux.",
+    "name": "Le Saloon",
+    "phone": "98616161"
+  }
+},
+{
+  "type": "node",
+  "id": 13587215570,
+  "lat": 6.3926015,
+  "lon": 2.3975749,
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:state": "Littoral",
+    "addr:street": "Fifadji",
+    "amenity": "restaurant",
+    "check_date": "2026-02-21",
+    "check_date:currency:XBT": "2026-02-21",
+    "contact:phone": "+229 016 161 0106",
+    "contact:tiktok": "https://www.tiktok.com/@restaurant.la.scn",
+    "cuisine": "sandwich;juice;regional",
+    "currency:XBT": "yes",
+    "name": "La Scène du Chef",
+    "opening_hours": "Mo-We 09:00-22:00; Th-Sa 10:00-20:00",
+    "payment:cash": "yes",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 234094187,
+  "center": {
+    "lat": 6.3569013,
+    "lon": 2.4067847
+  },
+  "nodes": [
+    2423974170,
+    2423974167,
+    2423974191,
+    2423974193,
+    2423974170
+  ],
+  "tags": {
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "name": "CODIAM",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 234094189,
+  "center": {
+    "lat": 6.3569835,
+    "lon": 2.4048402
+  },
+  "nodes": [
+    2423974171,
+    2423974172,
+    2423974195,
+    2423974198,
+    2423974171
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Collège Catholique Père Aupiais"
+  }
+},
+{
+  "type": "way",
+  "id": 234094868,
+  "center": {
+    "lat": 6.3589881,
+    "lon": 2.4168853
+  },
+  "nodes": [
+    2423980930,
+    2423515500,
+    2423515501,
+    4186646536,
+    4186646553,
+    2423980931,
+    2423527541,
+    2423527539,
+    2423980930
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "CEG de Gbegamey",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 234097655,
+  "center": {
+    "lat": 6.3600007,
+    "lon": 2.4165177
+  },
+  "nodes": [
+    2423980931,
+    2424004348,
+    2424004349,
+    2424004350,
+    2424025992,
+    8256976867,
+    2423527543,
+    2423527541,
+    2423980931
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole Primaire Publique de Gbegamey",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 234343131,
+  "center": {
+    "lat": 6.3522423,
+    "lon": 2.4127727
+  },
+  "nodes": [
+    2425953149,
+    2425953150,
+    7699941912,
+    2425953144,
+    2425953149
+  ],
+  "tags": {
+    "amenity": "school",
+    "contact:website": "https://if-benin.com/",
+    "name": "Institut Français du Bénin"
+  }
+},
+{
+  "type": "way",
+  "id": 272080931,
+  "center": {
+    "lat": 6.3771717,
+    "lon": 2.4149525
+  },
+  "nodes": [
+    2770108415,
+    2770108417,
+    2770108414,
+    2770108411,
+    2770108415
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 272240208,
+  "center": {
+    "lat": 6.3901708,
+    "lon": 2.3985037
+  },
+  "nodes": [
+    2771966879,
+    2771966861,
+    2771966868,
+    2771966882,
+    2771966879
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 273376863,
+  "center": {
+    "lat": 6.3578672,
+    "lon": 2.4002818
+  },
+  "nodes": [
+    2782366132,
+    2782366145,
+    4186479564,
+    4186479563,
+    2782366142,
+    2782366127,
+    2782366132
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 355572192,
+  "center": {
+    "lat": 6.3917506,
+    "lon": 2.3615164
+  },
+  "nodes": [
+    3611730765,
+    3611730764,
+    3611730762,
+    3611730763,
+    3611730765
+  ],
+  "tags": {
+    "addr:city": "Cotonou",
+    "amenity": "school",
+    "barrier": "wall",
+    "name": "École Primaire Publique de Menontin",
+    "operator:type": "public",
+    "school:BJ": "primaire",
+    "school:HT": "primaire"
+  }
+},
+{
+  "type": "way",
+  "id": 355581805,
+  "center": {
+    "lat": 6.3776692,
+    "lon": 2.4718978
+  },
+  "nodes": [
+    3611845369,
+    3611845368,
+    3611845366,
+    3611845367,
+    3611845369
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "École primaire publique d'Avotrou"
+  }
+},
+{
+  "type": "way",
+  "id": 416489326,
+  "center": {
+    "lat": 6.3738814,
+    "lon": 2.4618692
+  },
+  "nodes": [
+    4172329306,
+    4172329305,
+    4172329290,
+    4172329291,
+    4212398102,
+    4172329306
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall",
+    "name": "École primaire publique de N'vènamèdé"
+  }
+},
+{
+  "type": "way",
+  "id": 418079976,
+  "center": {
+    "lat": 6.3568671,
+    "lon": 2.3940871
+  },
+  "nodes": [
+    4185357033,
+    4185357032,
+    4185357035,
+    4185357034,
+    4185357026,
+    4185357027,
+    4185357033
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Livingstone",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 418096195,
+  "center": {
+    "lat": 6.3556632,
+    "lon": 2.4144697
+  },
+  "nodes": [
+    5215952008,
+    4185515926,
+    4185515920,
+    4185515919,
+    4185515927,
+    4185515925,
+    4185515914,
+    4185515913,
+    4185515918,
+    4185515917,
+    4185515924,
+    4185515923,
+    4185515930,
+    4185515929,
+    4185515922,
+    4185515921,
+    4185515916,
+    4185515915,
+    4185515909,
+    4185515910,
+    4185515901,
+    4185515904,
+    4185515899,
+    4185515900,
+    4185515902,
+    4185515903,
+    4185515908,
+    4185515907,
+    4185515911,
+    4185515912,
+    5215952008
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hospitalisation"
+  }
+},
+{
+  "type": "way",
+  "id": 418099916,
+  "center": {
+    "lat": 6.3558951,
+    "lon": 2.4150976
+  },
+  "nodes": [
+    5215952004,
+    4185550010,
+    4185550004,
+    4185550003,
+    5215952004
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hophtamologie"
+  }
+},
+{
+  "type": "way",
+  "id": 418099917,
+  "center": {
+    "lat": 6.3556363,
+    "lon": 2.4149272
+  },
+  "nodes": [
+    5215952005,
+    4185549989,
+    4185549785,
+    4185549786,
+    5215952005
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "cardiology",
+    "name": "Cardiologie"
+  }
+},
+{
+  "type": "way",
+  "id": 418112757,
+  "center": {
+    "lat": 6.3559068,
+    "lon": 2.4144911
+  },
+  "nodes": [
+    5215952007,
+    4185643007,
+    4185643001,
+    4185643002,
+    5215952007
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "operator": "ORL"
+  }
+},
+{
+  "type": "way",
+  "id": 418112759,
+  "center": {
+    "lat": 6.3561039,
+    "lon": 2.4149646
+  },
+  "nodes": [
+    5645513623,
+    4185643016,
+    4185643012,
+    4185643011,
+    4185643014,
+    4185643013,
+    4185643010,
+    4185643009,
+    5645513623
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hôpital d'instructions des Armées"
+  }
+},
+{
+  "type": "way",
+  "id": 418185262,
+  "center": {
+    "lat": 6.3615763,
+    "lon": 2.3998697
+  },
+  "nodes": [
+    6469374415,
+    4186429572,
+    4186429564,
+    4186429548,
+    6469374415
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "CRES IRM",
+    "source": "Pleiades-2016"
+  }
+},
+{
+  "type": "way",
+  "id": 418199486,
+  "center": {
+    "lat": 6.3653723,
+    "lon": 2.4417024
+  },
+  "nodes": [
+    5557397294,
+    4186479864,
+    4186479854,
+    4186479853,
+    5557397294
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 419073366,
+  "center": {
+    "lat": 6.3526031,
+    "lon": 2.4374562
+  },
+  "nodes": [
+    4192412299,
+    4192412300,
+    4192410687,
+    4192410686,
+    4192410682,
+    4192410681,
+    4192410685,
+    4192410684,
+    4192412299
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "italian;international",
+    "name": "L'imprévu"
+  }
+},
+{
+  "type": "way",
+  "id": 420919483,
+  "center": {
+    "lat": 6.3681199,
+    "lon": 2.4506755
+  },
+  "nodes": [
+    4208098288,
+    4208098246,
+    4208098225,
+    4208098258,
+    4208098288
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 421059549,
+  "center": {
+    "lat": 6.3803233,
+    "lon": 2.4566689
+  },
+  "nodes": [
+    4208966536,
+    7725197460,
+    4208966535,
+    7725197461,
+    4208966520,
+    4208966521,
+    4208966536
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 424123861,
+  "center": {
+    "lat": 6.3900724,
+    "lon": 2.3652683
+  },
+  "nodes": [
+    3260703525,
+    4235873868,
+    4235873862,
+    4235873863,
+    3260703525
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hôpital de Menontin",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 459613843,
+  "center": {
+    "lat": 6.3762628,
+    "lon": 2.3826874
+  },
+  "nodes": [
+    4554155057,
+    4554155058,
+    4554155059,
+    4554155060,
+    4554155057
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "École primaire publique d'Ahogbohoué",
+    "opening_hours": "08:00-12:00,15:00-17:00"
+  }
+},
+{
+  "type": "way",
+  "id": 459613850,
+  "center": {
+    "lat": 6.3779742,
+    "lon": 2.3796296
+  },
+  "nodes": [
+    4554155293,
+    4554155294,
+    4554155295,
+    4554155296,
+    4554155297,
+    4554155298,
+    4554155293
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "QUALIMAX",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 485530220,
+  "center": {
+    "lat": 6.3664973,
+    "lon": 2.4132505
+  },
+  "nodes": [
+    4783117056,
+    4783117053,
+    4783117054,
+    4783117055,
+    4783117056
+  ],
+  "tags": {
+    "addr:street": "Rue 11.005",
+    "building": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Hotel Saint-Jean",
+    "phone": "+229 66 36 85 46",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 496497819,
+  "center": {
+    "lat": 6.3675598,
+    "lon": 2.4777622
+  },
+  "nodes": [
+    4882005605,
+    4882005606,
+    4882005607,
+    4882005608,
+    4882005605
+  ],
+  "tags": {
+    "addr:city": "Cotonou",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hôpital Minonkpo (ProFam)"
+  }
+},
+{
+  "type": "way",
+  "id": 498886457,
+  "center": {
+    "lat": 6.3655519,
+    "lon": 2.4809437
+  },
+  "nodes": [
+    4902272585,
+    4902272586,
+    4902272587,
+    4902272588,
+    4902272585
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall",
+    "name": "École primaire publique de Finagnon",
+    "operator": "Etat"
+  }
+},
+{
+  "type": "way",
+  "id": 498886470,
+  "center": {
+    "lat": 6.3631998,
+    "lon": 2.4855922
+  },
+  "nodes": [
+    4219273259,
+    4219273271,
+    4219273205,
+    4219273204,
+    4219273259
+  ],
+  "tags": {
+    "addr:city": "Cotonou",
+    "amenity": "school",
+    "name": "Collège d'Enseignement Général Le Littoral",
+    "operator": "Etat"
+  }
+},
+{
+  "type": "way",
+  "id": 499188745,
+  "center": {
+    "lat": 6.3597883,
+    "lon": 2.3982066
+  },
+  "nodes": [
+    4904973006,
+    13085602025,
+    4904973008,
+    4904973009,
+    4904973006
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Hôtel Bénin Horizon",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 533264508,
+  "center": {
+    "lat": 6.3691147,
+    "lon": 2.4723461
+  },
+  "nodes": [
+    5173786960,
+    5173786961,
+    5173786962,
+    4254742457,
+    5173786960
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole Primaire Public de TANTO"
+  }
+},
+{
+  "type": "way",
+  "id": 591442874,
+  "center": {
+    "lat": 6.3839644,
+    "lon": 2.4567277
+  },
+  "nodes": [
+    5646591478,
+    5646591477,
+    5646591476,
+    5646591475,
+    5646591474,
+    5646591473,
+    5553069525,
+    5646591472,
+    5646591471,
+    5646591470,
+    5646591469,
+    5646591468,
+    5646591478
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Lycée Technique de Kpondehoun"
+  }
+},
+{
+  "type": "way",
+  "id": 733908431,
+  "center": {
+    "lat": 6.3818625,
+    "lon": 2.3743029
+  },
+  "nodes": [
+    6873428691,
+    6873428694,
+    6873428690,
+    6873428689,
+    6873428688,
+    6873428722,
+    6873428687,
+    6873428686,
+    6873428691
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 735362308,
+  "center": {
+    "lat": 6.3680727,
+    "lon": 2.4232336
+  },
+  "nodes": [
+    6887427614,
+    6887427615,
+    6887427616,
+    6887427617,
+    6887427614
+  ],
+  "tags": {
+    "addr:city": "Cotonou",
+    "addr:postcode": "00229",
+    "addr:street": "7.018",
+    "amenity": "school",
+    "denomination": "Groupe_Scolaire_La_Source",
+    "name": "Groupe Scolaire La Source",
+    "operator": "Groupe Scolaire La Source",
+    "religion": "laique"
+  }
+},
+{
+  "type": "way",
+  "id": 759625924,
+  "center": {
+    "lat": 6.3738489,
+    "lon": 2.4105424
+  },
+  "nodes": [
+    7096004537,
+    7096004534,
+    7096004533,
+    7096004531,
+    7096004530,
+    7096004532,
+    7096004529,
+    7096004528,
+    7096004535,
+    7096004536,
+    7096004537
+  ],
+  "tags": {
+    "amenity": "school",
+    "building": "school",
+    "name": "Complexe scolère Baptiste"
+  }
+},
+{
+  "type": "way",
+  "id": 787161785,
+  "center": {
+    "lat": 6.3819359,
+    "lon": 2.4629101
+  },
+  "nodes": [
+    4172329288,
+    7359107752,
+    7359107753,
+    7359107754,
+    4172329288
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hopital de Zone de Suru Lere"
+  }
+},
+{
+  "type": "way",
+  "id": 787464499,
+  "center": {
+    "lat": 6.3781538,
+    "lon": 2.4499392
+  },
+  "nodes": [
+    4228452693,
+    7362579111,
+    7362579112,
+    7362579113,
+    4228452693
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hopital de Zone Ayélawadjè"
+  }
+},
+{
+  "type": "way",
+  "id": 787464506,
+  "center": {
+    "lat": 6.3615883,
+    "lon": 2.4381975
+  },
+  "nodes": [
+    4403019206,
+    7362579148,
+    7362579149,
+    7362579150,
+    7362579151,
+    7362579152,
+    7362579163,
+    7362579153,
+    7362579154,
+    7362579155,
+    7362579156,
+    7362579157,
+    7362579158,
+    7362579159,
+    7362579160,
+    7362579161,
+    7362579162,
+    4403019206
+  ],
+  "tags": {
+    "addr:housenumber": "274",
+    "addr:street": "Rue ROI DAKO DONOU R. 5.132",
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hôpital de l'enfant et de la mère lagune",
+    "phone": "+22921317115"
+  }
+},
+{
+  "type": "way",
+  "id": 787522924,
+  "center": {
+    "lat": 6.3649666,
+    "lon": 2.4419652
+  },
+  "nodes": [
+    5573284093,
+    7363148040,
+    7363148041,
+    7363148042,
+    7363148043,
+    7363148044,
+    5573284093
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Centre National Hospitalier et Universitaire de Pneumo-Phtisiologie de Cotonou Lazaret",
+    "name:en": "National Hospital and University Center of Pneumo-Phtisiology of Cotonou Lazaret"
+  }
+},
+{
+  "type": "way",
+  "id": 787522955,
+  "center": {
+    "lat": 6.3795360,
+    "lon": 2.4146763
+  },
+  "nodes": [
+    6947807188,
+    7363158150,
+    7363158151,
+    7363158152,
+    6947807188
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hôpital BETHESDA"
+  }
+},
+{
+  "type": "way",
+  "id": 787522956,
+  "center": {
+    "lat": 6.3799167,
+    "lon": 2.4152444
+  },
+  "nodes": [
+    6947807387,
+    7363158153,
+    7363158154,
+    7363158155,
+    6947807387
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "healthcare": "hospital",
+    "name": "Hôpital BETHESDA, Service d'Ophtalmologie"
+  }
+},
+{
+  "type": "way",
+  "id": 805925012,
+  "center": {
+    "lat": 6.3709387,
+    "lon": 2.4473923
+  },
+  "nodes": [
+    7536564967,
+    7536564968,
+    7720676226,
+    7536564969,
+    7536564970,
+    7536564971,
+    7536564972,
+    7536564973,
+    7536564967
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hopital Misséssin"
+  }
+},
+{
+  "type": "way",
+  "id": 816415101,
+  "center": {
+    "lat": 6.3794415,
+    "lon": 2.3947654
+  },
+  "nodes": [
+    7625005261,
+    7625005260,
+    7623462465,
+    2772077931,
+    2772077930,
+    7625005259,
+    7625005258,
+    7625005261
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Ecole Béninoise pour les sourds"
+  }
+},
+{
+  "type": "way",
+  "id": 816415104,
+  "center": {
+    "lat": 6.3799087,
+    "lon": 2.3960441
+  },
+  "nodes": [
+    7625005272,
+    7625005271,
+    7625005270,
+    7625005269,
+    7625005272
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 816455457,
+  "center": {
+    "lat": 6.3751639,
+    "lon": 2.3576188
+  },
+  "nodes": [
+    7625401087,
+    7625400389,
+    7625400787,
+    7625400388,
+    7625401087
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "healthcare": "hospital",
+    "name": "Anastasia"
+  }
+},
+{
+  "type": "way",
+  "id": 816455477,
+  "center": {
+    "lat": 6.3711455,
+    "lon": 2.3573372
+  },
+  "nodes": [
+    7625400411,
+    7625400410,
+    7625401496,
+    7625400409,
+    7625400812,
+    7625400411
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 816455480,
+  "center": {
+    "lat": 6.3600923,
+    "lon": 2.3685636
+  },
+  "nodes": [
+    7625400725,
+    7625400724,
+    7625400723,
+    7625401500,
+    7625400498,
+    7625401112,
+    7625400414,
+    7625400725
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 822813013,
+  "center": {
+    "lat": 6.3874530,
+    "lon": 2.4579779
+  },
+  "nodes": [
+    7682405286,
+    7682405087,
+    7682405188,
+    7682405086,
+    7682405286
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 822813044,
+  "center": {
+    "lat": 6.3854351,
+    "lon": 2.4503562
+  },
+  "nodes": [
+    7682405198,
+    7682405197,
+    7682405196,
+    7682405485,
+    7682405198
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 822813046,
+  "center": {
+    "lat": 6.3854446,
+    "lon": 2.4514794
+  },
+  "nodes": [
+    7682405293,
+    7682405486,
+    8260662364,
+    7682405201,
+    7682405292,
+    7682405293
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 822813057,
+  "center": {
+    "lat": 6.3854764,
+    "lon": 2.4440952
+  },
+  "nodes": [
+    7682405312,
+    7682405089,
+    7682405387,
+    7682405218,
+    7682405312
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 822813098,
+  "center": {
+    "lat": 6.3761436,
+    "lon": 2.4413815
+  },
+  "nodes": [
+    7682405394,
+    7682406585,
+    7682405246,
+    7682405245,
+    7682405499,
+    7682405394
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 822835922,
+  "center": {
+    "lat": 6.3697133,
+    "lon": 2.4410456
+  },
+  "nodes": [
+    7682610393,
+    7682609894,
+    7682610206,
+    7682610205,
+    7682610393
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 824183198,
+  "center": {
+    "lat": 6.3630178,
+    "lon": 2.3808695
+  },
+  "nodes": [
+    7695188202,
+    7695188201,
+    7695188200,
+    7695188199,
+    7695188202
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 824228823,
+  "center": {
+    "lat": 6.3914639,
+    "lon": 2.3787024
+  },
+  "nodes": [
+    7695553740,
+    7695553739,
+    7695553738,
+    7695553737,
+    7695553736,
+    7695553740
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall",
+    "name": "Complexe scolaire \"Emilie de Villeneuve\""
+  }
+},
+{
+  "type": "way",
+  "id": 824235677,
+  "center": {
+    "lat": 6.3829615,
+    "lon": 2.3854689
+  },
+  "nodes": [
+    7695604000,
+    7695603999,
+    7695603998,
+    7695603997,
+    7695604000
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall",
+    "name": "Ecole primaire publique de Sètovi",
+    "operator:type": "public",
+    "school:HT": "primaire"
+  }
+},
+{
+  "type": "way",
+  "id": 824257217,
+  "center": {
+    "lat": 6.3872324,
+    "lon": 2.3727063
+  },
+  "nodes": [
+    7695750400,
+    7695750399,
+    7695750398,
+    7695750397,
+    7695750400
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 824468351,
+  "center": {
+    "lat": 6.3799910,
+    "lon": 2.4044338
+  },
+  "nodes": [
+    7698570811,
+    7698570810,
+    7698570809,
+    7698570808,
+    7698570811
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 824565354,
+  "center": {
+    "lat": 6.3616251,
+    "lon": 2.4054011
+  },
+  "nodes": [
+    7699570115,
+    7699570114,
+    7699570113,
+    7699570112,
+    7699570115
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire Gbégamey-Nord, Groupe A - D"
+  }
+},
+{
+  "type": "way",
+  "id": 824939373,
+  "center": {
+    "lat": 6.3516999,
+    "lon": 2.3962041
+  },
+  "nodes": [
+    7702988651,
+    7702988650,
+    7702988649,
+    7702988648,
+    7702988651
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "fence",
+    "name": "Nigerian International School"
+  }
+},
+{
+  "type": "way",
+  "id": 824939375,
+  "center": {
+    "lat": 6.3520811,
+    "lon": 2.3948277
+  },
+  "nodes": [
+    7702988663,
+    7702988662,
+    7702988661,
+    7702988660,
+    7702988659,
+    7702988658,
+    7702988657,
+    7702988663
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall",
+    "contact:website": "http://www.efemontaigne-cotonou.com/",
+    "name": "Établissement français d'enseignement Montaigne",
+    "operator": "Agence pour l'enseignement français à l'étranger (AEFE)",
+    "wikidata": "Q19461625"
+  }
+},
+{
+  "type": "way",
+  "id": 825885612,
+  "center": {
+    "lat": 6.3626534,
+    "lon": 2.4376922
+  },
+  "nodes": [
+    7711129260,
+    7711129259,
+    7711129258,
+    7711129257,
+    7711129260
+  ],
+  "tags": {
+    "addr:housenumber": "480",
+    "amenity": "school",
+    "contact:phone": "+22921310835",
+    "name": "Lycée technique Coulibaly"
+  }
+},
+{
+  "type": "way",
+  "id": 825886278,
+  "center": {
+    "lat": 6.3634770,
+    "lon": 2.4298785
+  },
+  "nodes": [
+    7711133203,
+    7711133202,
+    7711133201,
+    7711133200,
+    7711133203
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall",
+    "name": "Complexe scolaire Gbéto sud - Groupe A, C, D"
+  }
+},
+{
+  "type": "way",
+  "id": 826562126,
+  "center": {
+    "lat": 6.3861342,
+    "lon": 2.4334854
+  },
+  "nodes": [
+    7717364897,
+    7717364896,
+    7717364895,
+    7717364894,
+    7717364897
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "École primaire publique de Djidjè"
+  }
+},
+{
+  "type": "way",
+  "id": 826562164,
+  "center": {
+    "lat": 6.3908149,
+    "lon": 2.4296663
+  },
+  "nodes": [
+    7717365146,
+    7717365145,
+    7717365144,
+    7717365143,
+    7717365146
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "École primaire publique de Ladji"
+  }
+},
+{
+  "type": "way",
+  "id": 827029820,
+  "center": {
+    "lat": 6.3823238,
+    "lon": 2.4405151
+  },
+  "nodes": [
+    7721189315,
+    7721189314,
+    7721189313,
+    7721189312,
+    7721189315
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 827056773,
+  "center": {
+    "lat": 6.3924502,
+    "lon": 2.4481152
+  },
+  "nodes": [
+    7721454243,
+    7721454242,
+    7721454241,
+    7721454240,
+    7721454243
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 827085233,
+  "center": {
+    "lat": 6.3922756,
+    "lon": 2.4514103
+  },
+  "nodes": [
+    7721788896,
+    7721788895,
+    7721788894,
+    7721788893,
+    7721788896
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 827098199,
+  "center": {
+    "lat": 6.3911514,
+    "lon": 2.4613922
+  },
+  "nodes": [
+    7721890934,
+    7721890933,
+    7721890932,
+    7721890931,
+    7721890934
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 828065317,
+  "center": {
+    "lat": 6.3843496,
+    "lon": 2.4784603
+  },
+  "nodes": [
+    7730505420,
+    7730505419,
+    7730505418,
+    7730505417,
+    7730505420
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 828380152,
+  "center": {
+    "lat": 6.3718206,
+    "lon": 2.4773627
+  },
+  "nodes": [
+    7733238937,
+    7733238936,
+    7733238935,
+    7733238934,
+    7733238937
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 832228214,
+  "center": {
+    "lat": 6.3921183,
+    "lon": 2.3905630
+  },
+  "nodes": [
+    7770009540,
+    7770009539,
+    7770009538,
+    7770009537,
+    7770009536,
+    7770009517,
+    7770009516,
+    7770009540
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 832228225,
+  "center": {
+    "lat": 6.3925049,
+    "lon": 2.3993620
+  },
+  "nodes": [
+    7770009566,
+    7770009565,
+    7770009564,
+    7770009563,
+    7770009562,
+    7770009551,
+    7770009550,
+    7770009566
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 835724676,
+  "center": {
+    "lat": 6.3815827,
+    "lon": 2.3663320
+  },
+  "nodes": [
+    7800630551,
+    7800630550,
+    7800630549,
+    7800630548,
+    7800630547,
+    7800630546,
+    7800630545,
+    7800630544,
+    7800630543,
+    7800630551
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 835724708,
+  "center": {
+    "lat": 6.3783033,
+    "lon": 2.3696766
+  },
+  "nodes": [
+    7800631027,
+    7800631026,
+    7800631025,
+    7800631024,
+    7800631027
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 835777110,
+  "center": {
+    "lat": 6.3750567,
+    "lon": 2.3668630
+  },
+  "nodes": [
+    7801110528,
+    7801110527,
+    7801110526,
+    7801110525,
+    7801110524,
+    7801110523,
+    7801110522,
+    7801110521,
+    7801110528
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 835777119,
+  "center": {
+    "lat": 6.3765234,
+    "lon": 2.3616569
+  },
+  "nodes": [
+    7801115746,
+    7801115745,
+    7801115744,
+    7801115743,
+    7801115742,
+    7801115741,
+    7801115746
+  ],
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 836143291,
+  "center": {
+    "lat": 6.3779661,
+    "lon": 2.3846776
+  },
+  "nodes": [
+    7804269076,
+    7804269075,
+    7804269074,
+    7804269073,
+    7804269072,
+    7804269076
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "healthcare": "hospital",
+    "name": "Centre de Santé de la Police Nationale"
+  }
+},
+{
+  "type": "way",
+  "id": 836153244,
+  "center": {
+    "lat": 6.3900858,
+    "lon": 2.3656856
+  },
+  "nodes": [
+    7804346330,
+    7804346329,
+    7804346328,
+    7804346327,
+    7804346326,
+    7804346330
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "healthcare": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 836452257,
+  "center": {
+    "lat": 6.3664812,
+    "lon": 2.3869562
+  },
+  "nodes": [
+    7807061048,
+    7807061047,
+    7807061046,
+    7807061045,
+    7807061044,
+    7807061048
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 836752127,
+  "center": {
+    "lat": 6.3510501,
+    "lon": 2.3719431
+  },
+  "nodes": [
+    7809547109,
+    7809547108,
+    7809547107,
+    7809547106,
+    7809547109
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 888066433,
+  "center": {
+    "lat": 6.3643496,
+    "lon": 2.4148864
+  },
+  "nodes": [
+    8256669868,
+    5112765480,
+    4185929235,
+    4185929231,
+    8256669869,
+    8256669870,
+    4185929233,
+    4185929213,
+    8256669899,
+    8256669868
+  ],
+  "tags": {
+    "amenity": "school",
+    "barrier": "wall",
+    "name": "Complexe scolaire catholique saint Jean-Baptiste",
+    "school:BJ": "primaire",
+    "school:FR": "secondaire"
+  }
+},
+{
+  "type": "way",
+  "id": 888082087,
+  "center": {
+    "lat": 6.3662872,
+    "lon": 2.4149894
+  },
+  "nodes": [
+    8256864324,
+    4192504616,
+    8256864323,
+    8256864322,
+    8256864321,
+    8256864320,
+    8256864319,
+    8256864318,
+    8256864317,
+    8256802516,
+    8256802515,
+    8256802514,
+    8256864324
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Groupe Scolaire Saint Jean-Baptiste",
+    "school:BJ": "Lycée"
+  }
+},
+{
+  "type": "way",
+  "id": 888514296,
+  "center": {
+    "lat": 6.3772631,
+    "lon": 2.4602904
+  },
+  "nodes": [
+    8260766268,
+    8260766267,
+    8260766266,
+    8260766265,
+    8260766264,
+    8260766268
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire la Référence SENA",
+    "school:BJ": "primaire",
+    "source": "GPS; Survey"
+  }
+},
+{
+  "type": "way",
+  "id": 890743211,
+  "center": {
+    "lat": 6.3876979,
+    "lon": 2.4450924
+  },
+  "nodes": [
+    8278529608,
+    8278529607,
+    8278529606,
+    8278529605,
+    8278529608
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe Scolaire Bouba",
+    "school:BJ": "primaire"
+  }
+},
+{
+  "type": "way",
+  "id": 890745151,
+  "center": {
+    "lat": 6.3881319,
+    "lon": 2.4637491
+  },
+  "nodes": [
+    8278552920,
+    8278552919,
+    8278552918,
+    8278552917,
+    8278552920
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire privé le Génie",
+    "school:BJ": "primaire"
+  }
+},
+{
+  "type": "way",
+  "id": 923761489,
+  "center": {
+    "lat": 6.3680154,
+    "lon": 2.3596942
+  },
+  "nodes": [
+    8574961323,
+    8574961324,
+    8560705449,
+    8574961326,
+    8574961323
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire Victoria",
+    "phone": "+229 97871868",
+    "school:BJ": "primaire"
+  }
+},
+{
+  "type": "way",
+  "id": 923762479,
+  "center": {
+    "lat": 6.3753213,
+    "lon": 2.4578802
+  },
+  "nodes": [
+    8575017827,
+    8575017828,
+    8575017829,
+    8571351851,
+    8575017827
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire les Moineaux",
+    "school:BJ": "primaire"
+  }
+},
+{
+  "type": "way",
+  "id": 923973617,
+  "center": {
+    "lat": 6.3591419,
+    "lon": 2.3597706
+  },
+  "nodes": [
+    8560708924,
+    8577027853,
+    8577027854,
+    8577027855,
+    8560708924
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "Complexe scolaire privé le Libérateur",
+    "phone": "+22996495011",
+    "school:BJ": "primaire"
+  }
+},
+{
+  "type": "way",
+  "id": 929713308,
+  "center": {
+    "lat": 6.3694427,
+    "lon": 2.3654272
+  },
+  "nodes": [
+    8621974821,
+    8621974817,
+    8621957916,
+    8621974818,
+    8621974819,
+    8621974820,
+    8621974821
+  ],
+  "tags": {
+    "amenity": "school",
+    "name": "École primaire privée Unité d'Agla",
+    "phone": "+22995121213",
+    "school:BJ": "primaire"
+  }
+}
+
+  ]
+}
