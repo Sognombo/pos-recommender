@@ -44,7 +44,12 @@ h1, h2, h3 {color: #1f4e79;}
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("../data/pos_cotonou.csv")
+    
+
+    BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+    data_path = os.path.join(BASE_DIR, "data", "pos_cotonou.csv")
+
+    df = pd.read_csv(data_path)
     df, _ = perform_clustering(df, n_clusters=7)
     return df
 
