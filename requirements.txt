@@ -3,5 +3,6 @@ pandas
 numpy
 scikit-learn
 folium
+streamlit-folium
 requests
 openpyxl
